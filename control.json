@@ -11,22 +11,17 @@
           "id": 27746,
           "url": "https://star.global/wp-content/uploads/2020/11/Final-Desktop-2.mp4",
           "type": "video",
-          "mime": "video/mp4",
-          "alt": ""
+          "mime": "video/mp4"
         },
         "backgroundPlaceholder": {
           "id": 31140,
           "url": "https://star.global/wp-content/uploads/2021/01/2-scaled-1-min.jpg",
           "type": "image",
           "mime": "image/jpeg",
-          "alt": "",
           "title": "2-scaled-1-min",
           "filename": "2-scaled-1-min.jpg",
-          "withSize": true,
           "sizes": {
-            "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/01/20015623/2-scaled-1-min-100x100.jpg",
-            "medium": "https://cdn.star.global/wp-content/uploads/2021/01/20015623/2-scaled-1-min-620x485.jpg",
-            "large": "https://cdn.star.global/wp-content/uploads/2021/01/20015623/2-scaled-1-min-1920x750.jpg"
+            "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/01/20015623/2-scaled-1-min-100x100.jpg"
           }
         },
         "backgroundMobile": {
@@ -34,39 +29,23 @@
           "url": "https://star.global/wp-content/uploads/2020/11/Final-Mobile-2.mp4",
           "type": "video",
           "mime": "video/mp4",
-          "alt": "",
           "title": "Final-Mobile-2",
-          "filename": "Final-Mobile-2.mp4",
-          "withSize": true
+          "filename": "Final-Mobile-2.mp4"
         },
         "backgroundMobilePlaceholder": {
           "id": 65556,
           "url": "https://star.global/wp-content/uploads/2022/04/1-1.jpeg",
           "type": "image",
           "mime": "image/jpeg",
-          "alt": "",
           "title": "1-1",
           "filename": "1-1.jpeg",
-          "withSize": true,
           "sizes": {
-            "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/04/05030717/1-1-100x100.jpeg",
-            "medium": "https://cdn.star.global/wp-content/uploads/2022/04/05030717/1-1-620x485.jpeg",
-            "large": "https://cdn.star.global/wp-content/uploads/2022/04/05030717/1-1-1162x750.jpeg"
+            "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/04/05030717/1-1-100x100.jpeg"
           }
         },
         "isStretchHeight": true,
         "className": "is-style-bg-custom",
-        "locationViewConditions": {
-          "rule": "include",
-          "region": "all",
-          "country": "all",
-          "showIfUserLocationUndefined": false
-        },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
@@ -77,11 +56,7 @@
             "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Star is a global team of product creators.</strong>",
             "align": "left",
             "format": "title-3",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
@@ -92,21 +67,13 @@
             "text": "Whether you are a start-up or an enterprise, we help you innovate, transform, grow and prosper.",
             "align": "left",
             "format": "title-3",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
           "blockName": "buttons",
           "attrs": {
-            "instanceId": "fc479934-fe86-46f1-a95a-1c7711deaea7",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "instanceId": "fc479934-fe86-46f1-a95a-1c7711deaea7"
           },
           "innerBlocks": [
             {
@@ -119,17 +86,12 @@
                   "title": "Our Work",
                   "path": "/our-work",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
                 },
                 "skin": "blackGreen",
                 "size": "lg",
                 "type": "solid",
-                "icon": "arrow",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "icon": "arrow"
               }
             }
           ]
@@ -143,33 +105,21 @@
         "startTheme": "gradient-violet-3",
         "mobileTheme": "gradient-green-5",
         "withLogoCloseUp": false,
-        "className": "is-style-gradient-violet-3",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "className": "is-style-gradient-violet-3"
       },
       "innerBlocks": [
         {
           "blockName": "columns",
           "attrs": {
             "instanceId": "1a20eb23-7146-459e-ab7b-fcbc882e95d6",
-            "count": 3,
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "count": 3
           },
           "innerBlocks": [
             {
               "blockName": "column",
               "attrs": {
                 "instanceId": "8bb50599-0e87-4286-952c-7baadbecf545",
-                "parentEndTheme": "gradient-green-3",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "parentEndTheme": "gradient-green-3"
               },
               "innerBlocks": [
                 {
@@ -180,11 +130,7 @@
                     "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Client stories</strong>",
                     "align": "left",
                     "format": "title-5",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "regular"
                   }
                 },
                 {
@@ -195,11 +141,7 @@
                     "text": "See how Star helps companies <br>go from idea to market and beyond",
                     "format": "body-3",
                     "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "regular"
                   }
                 },
                 {
@@ -214,7 +156,6 @@
                       "type": "page",
                       "path": "/our-work/",
                       "target": "_blank",
-                      "rel": "",
                       "opensInNewTab": true
                     },
                     "skin": "white",
@@ -222,11 +163,7 @@
                     "type": "link",
                     "icon": "arrow",
                     "parentEndTheme": "gradient-violet-3",
-                    "className": "is-style-link",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "className": "is-style-link"
                   }
                 }
               ]
@@ -235,11 +172,7 @@
               "blockName": "column",
               "attrs": {
                 "instanceId": "c5f7984c-e831-4565-bee8-af95d4978ff2",
-                "parentEndTheme": "gradient-violet-4",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "parentEndTheme": "gradient-violet-4"
               },
               "innerBlocks": [
                 {
@@ -250,11 +183,7 @@
                     "text": "<strong>Latest thinking</strong>",
                     "align": "left",
                     "format": "title-5",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "regular"
                   }
                 },
                 {
@@ -265,11 +194,7 @@
                     "text": "Read our thought leadership <br>articles, reports and white papers",
                     "format": "body-3",
                     "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "regular"
                   }
                 },
                 {
@@ -284,7 +209,6 @@
                       "type": "page",
                       "path": "/posts/",
                       "target": "_blank",
-                      "rel": "",
                       "opensInNewTab": true
                     },
                     "skin": "white",
@@ -292,11 +216,7 @@
                     "type": "link",
                     "icon": "arrow",
                     "parentEndTheme": "gradient-violet-4",
-                    "className": "is-style-link",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "className": "is-style-link"
                   }
                 }
               ]
@@ -305,11 +225,7 @@
               "blockName": "column",
               "attrs": {
                 "instanceId": "0edbe5a1-96da-438f-b16a-029d499aca49",
-                "parentEndTheme": "gradient-yellow-1",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "parentEndTheme": "gradient-yellow-1"
               },
               "innerBlocks": [
                 {
@@ -320,11 +236,7 @@
                     "text": "<strong>Shine podcast</strong>",
                     "align": "left",
                     "format": "title-5",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "regular"
                   }
                 },
                 {
@@ -335,11 +247,7 @@
                     "text": "Break new ground with <br>Star Experts and special guests",
                     "format": "body-3",
                     "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "regular"
                   }
                 },
                 {
@@ -350,10 +258,8 @@
                     "link": {
                       "path": "/shine-podcasts",
                       "target": "_blank",
-                      "rel": "",
                       "opensInNewTab": true,
                       "title": "https://star.global/shine-podcasts",
-                      "type": "URL",
                       "id": "https://star.global/shine-podcasts",
                       "url": "https://star.global/shine-podcasts"
                     },
@@ -362,11 +268,7 @@
                     "type": "link",
                     "icon": "arrow",
                     "parentEndTheme": "gradient-yellow-1",
-                    "className": "is-style-link",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "className": "is-style-link"
                   }
                 }
               ]
@@ -380,18 +282,7 @@
       "attrs": {
         "instanceId": "ae7c1e2a-823d-4fc8-aa04-a7cb7cf8d2b1",
         "theme": "white",
-        "isStretchHeight": false,
-        "locationViewConditions": {
-          "rule": "include",
-          "region": "all",
-          "country": "all",
-          "showIfUserLocationUndefined": false
-        },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
@@ -402,11 +293,7 @@
             "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Services</strong>",
             "align": "left",
             "format": "title-1",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
@@ -417,11 +304,7 @@
             "text": "<span data-font-face=\"light\" class=\"swc-light\">At Star, we\u2019re all about co-creation. From ideation through launch, <br>we work with our clients every step of the way.</span>",
             "format": "body-1",
             "bgColor": "transparent",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         }
       ]
@@ -437,29 +320,16 @@
           "url": "https://star.global/wp-content/uploads/2022/04/Service-Lines-Block-Background-min-scaled.jpg",
           "type": "image",
           "mime": "image/jpeg",
-          "alt": "",
           "title": "Service Lines Block Background-min",
           "filename": "Service-Lines-Block-Background-min-scaled.jpg",
-          "withSize": true,
           "sizes": {
-            "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/04/15053047/Service-Lines-Block-Background-min-100x100.jpg",
-            "medium": "https://cdn.star.global/wp-content/uploads/2022/04/15053047/Service-Lines-Block-Background-min-620x485.jpg",
-            "large": "https://cdn.star.global/wp-content/uploads/2022/04/15053047/Service-Lines-Block-Background-min-1920x750.jpg"
+            "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/04/15053047/Service-Lines-Block-Background-min-100x100.jpg"
           }
         },
-        "isStretchHeight": false,
         "className": "is-style-bg-custom",
-        "locationViewConditions": {
-          "rule": "include",
-          "region": "all",
-          "country": "all",
-          "showIfUserLocationUndefined": false
-        },
         "contentAlignment": "left",
         "isZeroMarginTop": true,
-        "isZeroMarginBottom": true,
-        "isMobileHidden": false,
-        "isDesktopHidden": false
+        "isZeroMarginBottom": true
       },
       "innerBlocks": [
         {
@@ -469,9 +339,7 @@
             "theme": "green",
             "mobileTheme": "purple",
             "isZeroMarginTop": true,
-            "isZeroMarginBottom": true,
-            "isMobileHidden": false,
-            "isDesktopHidden": false
+            "isZeroMarginBottom": true
           },
           "innerBlocks": [
             {
@@ -506,11 +374,7 @@
                     "value": "Strategy Validation",
                     "__isNew__": true
                   }
-                ],
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                ]
               },
               "innerBlocks": [
                 {
@@ -522,7 +386,6 @@
                       "url": "https://star.global/strategy/",
                       "path": "/strategy/",
                       "target": "_blank",
-                      "rel": "",
                       "opensInNewTab": true
                     },
                     "skin": "whiteBlack",
@@ -530,10 +393,7 @@
                     "type": "link",
                     "icon": "arrow",
                     "className": "is-style-link",
-                    "isMobileHidden": true,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "isMobileHidden": true
                   }
                 },
                 {
@@ -545,17 +405,13 @@
                       "url": "https://star.global/strategy/",
                       "path": "/strategy/",
                       "target": "_blank",
-                      "rel": "",
                       "opensInNewTab": true
                     },
                     "skin": "greenBlack",
                     "size": "md",
                     "type": "solid",
                     "icon": "arrow",
-                    "isDesktopHidden": true,
-                    "isMobileHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "isDesktopHidden": true
                   }
                 }
               ]
@@ -583,11 +439,7 @@
                   },
                   { "value": "105", "label": "Digital Design" },
                   { "value": "106", "label": "Industrial Design" }
-                ],
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                ]
               },
               "innerBlocks": [
                 {
@@ -599,7 +451,6 @@
                       "url": "https://star.global/design/",
                       "path": "/design/",
                       "target": "_blank",
-                      "rel": "",
                       "opensInNewTab": true
                     },
                     "skin": "whiteBlack",
@@ -607,10 +458,7 @@
                     "type": "link",
                     "icon": "arrow",
                     "className": "is-style-link",
-                    "isMobileHidden": true,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "isMobileHidden": true
                   }
                 },
                 {
@@ -622,17 +470,13 @@
                       "url": "https://star.global/design/",
                       "path": "/design/",
                       "target": "_blank",
-                      "rel": "",
                       "opensInNewTab": true
                     },
                     "skin": "greenBlack",
                     "size": "md",
                     "type": "solid",
                     "icon": "arrow",
-                    "isDesktopHidden": true,
-                    "isMobileHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "isDesktopHidden": true
                   }
                 }
               ]
@@ -657,11 +501,7 @@
                   { "value": "1563", "label": "Data Science" },
                   { "value": "1566", "label": "Product Management" },
                   { "value": 1562, "label": "Cloud Engineering &amp; DevOps" }
-                ],
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                ]
               },
               "innerBlocks": [
                 {
@@ -673,7 +513,6 @@
                       "url": "https://star.global/engineering/",
                       "path": "/engineering/",
                       "target": "_blank",
-                      "rel": "",
                       "opensInNewTab": true
                     },
                     "skin": "whiteBlack",
@@ -681,10 +520,7 @@
                     "type": "link",
                     "icon": "arrow",
                     "className": "is-style-link",
-                    "isMobileHidden": true,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "isMobileHidden": true
                   }
                 },
                 {
@@ -696,17 +532,13 @@
                       "url": "https://star.global/engineering/",
                       "path": "/engineering/",
                       "target": "_blank",
-                      "rel": "",
                       "opensInNewTab": true
                     },
                     "skin": "greenBlack",
                     "size": "md",
                     "type": "solid",
                     "icon": "arrow",
-                    "isDesktopHidden": true,
-                    "isMobileHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "isDesktopHidden": true
                   }
                 }
               ]
@@ -723,10 +555,7 @@
         "text": "Learn more about how Star can help you bring game-changing ideas to\u00a0market.",
         "theme": "green",
         "isShowStarLogo": true,
-        "isDesktopHidden": true,
-        "isMobileHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "isDesktopHidden": true
       },
       "innerBlocks": [
         {
@@ -748,11 +577,7 @@
             "size": "md",
             "type": "link",
             "icon": "arrow",
-            "className": "is-style-link",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "className": "is-style-link"
           }
         }
       ]
@@ -763,17 +588,8 @@
         "instanceId": "ac1321cd-fb26-42ce-8cf1-a081e87565d1",
         "anchor": "industries",
         "theme": "white",
-        "isStretchHeight": false,
-        "locationViewConditions": {
-          "rule": "include",
-          "region": "all",
-          "country": "all",
-          "showIfUserLocationUndefined": false
-        },
         "contentAlignment": "left",
         "isZeroMarginBottom": true,
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
         "isZeroMarginTop": false
       },
       "innerBlocks": [
@@ -785,11 +601,7 @@
             "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Industries</strong>",
             "align": "left",
             "format": "title-1",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
@@ -799,11 +611,7 @@
             "text": "We harness the latest technologies, cross-industry expertise and endgame thinking to ideate, build, launch and scale superior, user-centric products that drive impressive commercial results.",
             "format": "body-1",
             "bgColor": "transparent",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
@@ -813,11 +621,7 @@
             "logosLabel": "Trusted by:",
             "linkLabel": "Explore our expertise",
             "hoverTheme": "purple",
-            "descriptionSide": "front",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "descriptionSide": "front"
           },
           "innerBlocks": [
             {
@@ -831,12 +635,9 @@
                   "url": "https://star.global/wp-content/uploads/2021/04/Automotive.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "filename": "Automotive.png",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024055/Automotive-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/04/13024055/Automotive-620x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/04/13024055/Automotive-738x750.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024055/Automotive-100x100.png"
                   }
                 },
                 "logos": [
@@ -846,42 +647,33 @@
                     "subtype": "svg+xml",
                     "id": 28162,
                     "url": "https://star.global/wp-content/uploads/2020/11/White-Industry-Flip-Card.svg",
-                    "alt": "",
                     "link": "https://star.global/home-4/media-attachment-white-industry-flip-card/",
                     "caption": "",
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/12012215/White-Industry-Flip-Card.svg",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/12012215/White-Industry-Flip-Card.svg",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/12012215/White-Industry-Flip-Card.svg"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/12012215/White-Industry-Flip-Card.svg"
                     }
                   },
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020337/Lufthansa-2-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020337/Lufthansa-2.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020337/Lufthansa-2.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020337/Lufthansa-2-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27992,
                     "url": "https://star.global/wp-content/uploads/2020/11/Lufthansa-2.png",
-                    "alt": "",
                     "link": "https://star.global/home-4/media-attachment-lufthansa-2/",
                     "caption": ""
                   },
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020336/Panasonic-3-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020336/Panasonic-3.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020336/Panasonic-3.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020336/Panasonic-3-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27989,
                     "url": "https://star.global/wp-content/uploads/2020/11/Panasonic-3.png",
-                    "alt": "",
                     "link": "https://star.global/home-4/media-attachment-panasonic-3/",
                     "caption": ""
                   }
@@ -889,13 +681,8 @@
                 "link": {
                   "url": "/industry/automotive",
                   "path": "/industry/automotive",
-                  "target": "_self",
                   "rel": ""
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -909,65 +696,51 @@
                   "url": "https://star.global/wp-content/uploads/2021/04/Health.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "filename": "Health.png",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024035/Health-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/04/13024035/Health-620x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/04/13024035/Health-738x750.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024035/Health-100x100.png"
                   }
                 },
                 "logos": [
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020250/Zeiss-100x92.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020250/Zeiss.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020250/Zeiss.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020250/Zeiss-100x92.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27977,
                     "url": "https://star.global/wp-content/uploads/2020/11/Zeiss.png",
-                    "alt": "",
                     "link": "https://star.global/?attachment_id=27977",
                     "caption": ""
                   },
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020251/Johnson-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020251/Johnson.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020251/Johnson.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020251/Johnson-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27980,
                     "url": "https://star.global/wp-content/uploads/2020/11/Johnson.png",
-                    "alt": "",
                     "link": "https://star.global/?attachment_id=27980",
                     "caption": ""
                   },
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020253/EGYM-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020253/EGYM.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020253/EGYM.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020253/EGYM-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27983,
                     "url": "https://star.global/wp-content/uploads/2020/11/EGYM.png",
-                    "alt": "",
                     "link": "https://star.global/?attachment_id=27983",
                     "caption": ""
                   }
                 ],
                 "link": {
                   "opensInNewTab": false,
-                  "target": "_self",
-                  "rel": "",
                   "noReferer": false,
                   "noFollow": false,
                   "path": "/industry/healthtech/",
@@ -975,11 +748,7 @@
                   "title": "/industry/healthtech/",
                   "url": "/industry/healthtech/",
                   "type": "URL"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -993,59 +762,44 @@
                   "url": "https://star.global/wp-content/uploads/2021/04/FinTech.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "filename": "FinTech.png",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024142/FinTech-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/04/13024142/FinTech-620x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/04/13024142/FinTech-738x750.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024142/FinTech-100x100.png"
                   }
                 },
                 "logos": [
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020214/Expensify-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020214/Expensify.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020214/Expensify.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020214/Expensify-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27971,
                     "url": "https://star.global/wp-content/uploads/2020/11/Expensify.png",
-                    "alt": "",
                     "link": "https://star.global/?attachment_id=27971",
                     "caption": ""
                   },
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020216/1800-Accountant-1-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020216/1800-Accountant-1.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020216/1800-Accountant-1.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020216/1800-Accountant-1-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27974,
                     "url": "https://star.global/wp-content/uploads/2020/11/1800-Accountant-1.png",
-                    "alt": "",
                     "link": "https://star.global/?attachment_id=27974",
                     "caption": ""
                   }
                 ],
                 "link": {
                   "opensInNewTab": false,
-                  "target": "_self",
-                  "rel": "",
                   "url": "/industry/fintech/",
                   "noReferer": false,
                   "noFollow": false,
                   "path": "/industry/fintech/"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1059,50 +813,39 @@
                   "url": "https://star.global/wp-content/uploads/2021/04/Consumer-Electronics.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "filename": "Consumer-Electronics.png",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024154/Consumer-Electronics-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/04/13024154/Consumer-Electronics-620x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/04/13024154/Consumer-Electronics-738x750.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024154/Consumer-Electronics-100x100.png"
                   }
                 },
                 "logos": [
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020149/Xerox-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020149/Xerox.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020149/Xerox.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020149/Xerox-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27965,
                     "url": "https://star.global/wp-content/uploads/2020/11/Xerox.png",
-                    "alt": "",
                     "link": "https://star.global/?attachment_id=27965",
                     "caption": ""
                   },
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020150/Hisense-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020150/Hisense.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020150/Hisense.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020150/Hisense-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27968,
                     "url": "https://star.global/wp-content/uploads/2020/11/Hisense.png",
-                    "alt": "",
                     "link": "https://star.global/?attachment_id=27968",
                     "caption": ""
                   }
                 ],
                 "link": {
                   "opensInNewTab": false,
-                  "target": "_self",
-                  "rel": "",
                   "url": "https://star.global/our-work/?industry=575",
                   "noReferer": false,
                   "noFollow": false,
@@ -1110,11 +853,7 @@
                   "id": "https://star.global/our-work/?industry=575",
                   "title": "https://star.global/our-work/?industry=575",
                   "type": "URL"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1128,75 +867,57 @@
                   "url": "https://star.global/wp-content/uploads/2021/04/Manufacturing.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "filename": "Manufacturing.png",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024117/Manufacturing-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/04/13024117/Manufacturing-620x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/04/13024117/Manufacturing-738x750.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024117/Manufacturing-100x100.png"
                   }
                 },
                 "logos": [
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020121/Fetch-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020121/Fetch.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020121/Fetch.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020121/Fetch-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27956,
                     "url": "https://star.global/wp-content/uploads/2020/11/Fetch.png",
-                    "alt": "",
                     "link": "https://star.global/?attachment_id=27956",
                     "caption": ""
                   },
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020123/FLSmidth-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020123/FLSmidth.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020123/FLSmidth.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020123/FLSmidth-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27959,
                     "url": "https://star.global/wp-content/uploads/2020/11/FLSmidth.png",
-                    "alt": "",
                     "link": "https://star.global/?attachment_id=27959",
                     "caption": ""
                   },
                   {
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020124/STILL-100x72.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020124/STILL.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020124/STILL.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020124/STILL-100x72.png"
                     },
                     "mime": "image/png",
                     "type": "image",
                     "subtype": "png",
                     "id": 27962,
                     "url": "https://star.global/wp-content/uploads/2020/11/STILL.png",
-                    "alt": "",
                     "link": "https://star.global/?attachment_id=27962",
                     "caption": ""
                   }
                 ],
                 "link": {
                   "url": "/our-work/?industry=571",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false,
                   "path": "/our-work/?industry=571",
                   "title": "/our-work/?industry=571",
                   "id": "/our-work/?industry=571",
                   "type": "URL"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1210,11 +931,8 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/Industry-Card-min.jpg",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/11042214/Industry-Card-min-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/11042214/Industry-Card-min-620x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/11042214/Industry-Card-min-738x750.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/11042214/Industry-Card-min-100x100.png"
                   }
                 },
                 "logos": [
@@ -1223,29 +941,20 @@
                     "url": "https://star.global/wp-content/uploads/2019/02/smaato.png",
                     "type": "image",
                     "mime": "image/png",
-                    "alt": "",
                     "title": "smaato",
                     "filename": "smaato.png",
                     "sizes": {
-                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2019/02/21022024/smaato-100x100.png",
-                      "medium": "https://cdn.star.global/wp-content/uploads/2019/02/21022024/smaato.png",
-                      "large": "https://cdn.star.global/wp-content/uploads/2019/02/21022024/smaato.png"
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2019/02/21022024/smaato-100x100.png"
                     }
                   }
                 ],
                 "link": {
                   "path": "/our-work/",
-                  "target": "_self",
-                  "rel": "",
                   "title": "Our Work",
                   "type": "page",
                   "id": 52,
                   "url": "https://star.global/our-work/"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             }
           ]
@@ -1258,16 +967,7 @@
         "instanceId": "28373445-c1fd-4ade-9aec-11b92987e184",
         "theme": "gradient-violet-2",
         "className": "is-style-gradient-violet-2",
-        "locationViewConditions": {
-          "rule": "include",
-          "region": "all",
-          "country": "all",
-          "showIfUserLocationUndefined": false
-        },
-        "isMobileHidden": true,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "isMobileHidden": true
       },
       "innerBlocks": [
         {
@@ -1278,22 +978,14 @@
             "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">We help companies accelerate product innovation and achieve lasting success</strong>",
             "align": "left",
             "format": "title-2",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
           "blockName": "statistics",
           "attrs": {
             "instanceId": "9b83b939-4487-41f5-beba-6156d8906c69",
-            "hoverBoxColor": "purple",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "hoverBoxColor": "purple"
           },
           "innerBlocks": [
             {
@@ -1303,11 +995,7 @@
                 "title": "380+",
                 "description": "multinational clients",
                 "hoverTitle": "85%",
-                "hoverDescription": "of our new projects are recurring customers or referrals through our existing clients",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "hoverDescription": "of our new projects are recurring customers or referrals through our existing clients"
               }
             },
             {
@@ -1317,11 +1005,7 @@
                 "title": "935+",
                 "description": "completed projects",
                 "hoverTitle": "40%",
-                "hoverDescription": "faster delivery than market average",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "hoverDescription": "faster delivery than market average"
               }
             },
             {
@@ -1329,11 +1013,7 @@
               "attrs": {
                 "instanceId": "929d04d8-906e-42d7-9675-52f7800516a6",
                 "title": "80",
-                "description": "NPS",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "description": "NPS"
               }
             },
             {
@@ -1349,12 +1029,9 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/numbers-1-1-2.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "filename": "numbers-1-1-2.png",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10120229/numbers-1-1-2-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10120229/numbers-1-1-2-620x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10120229/numbers-1-1-2-1920x561.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10120229/numbers-1-1-2-100x100.png"
                   }
                 },
                 "hoverBackground": {
@@ -1362,18 +1039,11 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/numbers-2-1.jpg",
                   "type": "image",
                   "mime": "image/jpeg",
-                  "alt": "",
                   "filename": "numbers-2-1.jpg",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10121428/numbers-2-1-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10121428/numbers-2-1-620x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10121428/numbers-2-1-1920x558.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10121428/numbers-2-1-100x100.png"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             }
           ]
@@ -1386,18 +1056,7 @@
         "instanceId": "c37ed7cf-7fbd-4f38-87a7-2a3a4d4e4658",
         "anchor": "cases",
         "theme": "white",
-        "isStretchHeight": false,
-        "locationViewConditions": {
-          "rule": "include",
-          "region": "all",
-          "country": "all",
-          "showIfUserLocationUndefined": false
-        },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
@@ -1408,11 +1067,7 @@
             "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Our Work</strong>",
             "align": "left",
             "format": "title-1",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
@@ -1423,11 +1078,7 @@
             "text": "<span data-font-face=\"light\" class=\"swc-light\">Human-centered design, strategy and engineering in one seamless workflow. </span><br><span data-font-face=\"light\" class=\"swc-light\">Here\u2019s how we help our clients define and reach their endgame.&nbsp;</span>",
             "format": "body-1",
             "bgColor": "transparent",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
@@ -1435,11 +1086,7 @@
           "attrs": {
             "instanceId": "d20c7b28-fe21-452a-903f-fdd8b895e4bc",
             "innerLogoBg": "transparent",
-            "hoverBgTile": "green",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "hoverBgTile": "green"
           },
           "innerBlocks": [
             {
@@ -1455,13 +1102,10 @@
                   "url": "https://star.global/wp-content/uploads/2021/09/Client_s-NameJohnson.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=Johnson",
                   "filename": "Client_s-NameJohnson.svg",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/09/21045553/Client_s-NameJohnson.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/09/21045553/Client_s-NameJohnson.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/09/21045553/Client_s-NameJohnson.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/09/21045553/Client_s-NameJohnson.svg"
                   }
                 },
                 "background": {
@@ -1469,19 +1113,15 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/4c471b5e97770bdd1f5d3883e2d708dc-1.jpg",
                   "type": "image",
                   "mime": "image/jpeg",
-                  "alt": "",
                   "filename": "4c471b5e97770bdd1f5d3883e2d708dc-1.jpg",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110607/4c471b5e97770bdd1f5d3883e2d708dc-1-100x100-1.jpg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110607/4c471b5e97770bdd1f5d3883e2d708dc-1-620x485-1.jpg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110607/4c471b5e97770bdd1f5d3883e2d708dc-1-678x750-1.jpg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110607/4c471b5e97770bdd1f5d3883e2d708dc-1-100x100-1.jpg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/johnson-fit/",
                   "title": "Johnson Health Tech",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true,
                   "path": "/cases/johnson-fit/"
                 },
@@ -1492,11 +1132,7 @@
                   "label": "Read full story",
                   "withArrow": true,
                   "icon": "arrow"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1512,18 +1148,14 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Lufthansa-4.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020015/Lufthansa-4.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020015/Lufthansa-4.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020015/Lufthansa-4.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020015/Lufthansa-4.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/lufthansa/",
                   "title": "Lufthansa",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true,
                   "path": "/cases/lufthansa/"
                 },
@@ -1536,10 +1168,7 @@
                   "icon": "arrow"
                 },
                 "className": "is-style-plain-tile",
-                "isMobileHidden": true,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "isMobileHidden": true
               }
             },
             {
@@ -1555,18 +1184,14 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Zeiss-4.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020008/Zeiss-4.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020008/Zeiss-4.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020008/Zeiss-4.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020008/Zeiss-4.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/zeiss/",
                   "title": "Zeiss",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true,
                   "path": "/cases/zeiss/"
                 },
@@ -1579,10 +1204,7 @@
                   "icon": "arrow"
                 },
                 "className": "is-style-plain-tile",
-                "isMobileHidden": true,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "isMobileHidden": true
               }
             },
             {
@@ -1598,13 +1220,10 @@
                   "url": "https://star.global/wp-content/uploads/2021/09/Client_s-NamePanasonic.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=Panasonic",
                   "filename": "Client_s-NamePanasonic.svg",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/09/21045610/Client_s-NamePanasonic.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/09/21045610/Client_s-NamePanasonic.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/09/21045610/Client_s-NamePanasonic.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/09/21045610/Client_s-NamePanasonic.svg"
                   }
                 },
                 "background": {
@@ -1612,18 +1231,14 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/caes-2-min-1.gif",
                   "type": "image",
                   "mime": "image/gif",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10150012/caes-2-min-1-100x100.gif",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/10150012/caes-2-min-1.gif",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/10150012/caes-2-min-1.gif"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10150012/caes-2-min-1-100x100.gif"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/panasonic-oneconnect/",
                   "title": "Panasonic OneConnect",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true,
                   "path": "/cases/panasonic-oneconnect/"
                 },
@@ -1634,11 +1249,7 @@
                   "label": "Read full story",
                   "withArrow": true,
                   "icon": "arrow"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1654,13 +1265,10 @@
                   "url": "https://star.global/wp-content/uploads/2021/09/Client_s-NameSaic.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "title": "Client_s Name=Saic",
                   "filename": "Client_s-NameSaic.svg",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/09/21045625/Client_s-NameSaic.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/09/21045625/Client_s-NameSaic.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/09/21045625/Client_s-NameSaic.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/09/21045625/Client_s-NameSaic.svg"
                   }
                 },
                 "background": {
@@ -1668,19 +1276,15 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/Case-Study-Image-4.gif",
                   "type": "image",
                   "mime": "image/gif",
-                  "alt": "",
                   "filename": "Case-Study-Image-4.gif",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10121427/Case-Study-Image-4-100x100.gif",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10121427/Case-Study-Image-4-620x485.gif",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10121427/Case-Study-Image-4.gif"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10121427/Case-Study-Image-4-100x100.gif"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/hmi-design-for-mg-cars/",
                   "title": "SAIC OIMT",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true,
                   "path": "/cases/hmi-design-for-mg-cars/"
                 },
@@ -1691,11 +1295,7 @@
                   "label": "Read full story",
                   "withArrow": true,
                   "icon": "arrow"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1709,7 +1309,6 @@
                   "url": "https://star.global/our-work/",
                   "title": "Our Work",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true,
                   "path": "/our-work/"
                 },
@@ -1721,11 +1320,7 @@
                   "label": "View all client stories",
                   "mobileLabel": "View all stories",
                   "icon": "arrow"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             }
           ]
@@ -1743,18 +1338,11 @@
           "url": "https://star.global/wp-content/uploads/2021/02/team-min-1-min-1.jpg",
           "type": "image",
           "mime": "image/jpeg",
-          "alt": "",
           "sizes": {
-            "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10111847/Episode-6-DT-1240-x-970-100x100.jpg",
-            "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10111847/Episode-6-DT-1240-x-970-620x485.jpg",
-            "large": "https://cdn.star.global/wp-content/uploads/2021/02/10111847/Episode-6-DT-1240-x-970-1240x750.jpg"
+            "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10111847/Episode-6-DT-1240-x-970-100x100.jpg"
           }
         },
-        "className": "is-style-gradient-violet-3",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "className": "is-style-gradient-violet-3"
       },
       "innerBlocks": [
         {
@@ -1765,11 +1353,7 @@
             "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Co-create with our </strong><br><strong data-font-face=\"bold\" class=\"swc-bold\">cross-functional teams</strong>",
             "align": "left",
             "format": "title-3",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
@@ -1780,21 +1364,13 @@
             "text": "<span data-font-face=\"light\" class=\"swc-light\">Partner with Star to accelerate your product journey</span>.",
             "format": "body-1",
             "bgColor": "transparent",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
           "blockName": "buttons",
           "attrs": {
-            "instanceId": "fccd6c11-c122-4e17-9b2a-915ce0e64d95",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "instanceId": "fccd6c11-c122-4e17-9b2a-915ce0e64d95"
           },
           "innerBlocks": [
             {
@@ -1806,7 +1382,6 @@
                   "title": "https://star.global/contact",
                   "path": "/contact",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true,
                   "id": "https://star.global/contact",
                   "url": "https://star.global/contact",
@@ -1816,11 +1391,7 @@
                 "size": "md",
                 "type": "solid",
                 "icon": "arrow",
-                "parentEndTheme": "gradient-green-2",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "parentEndTheme": "gradient-green-2"
               }
             }
           ]
@@ -1833,19 +1404,8 @@
         "instanceId": "ccde5169-b0d1-4775-bb31-808bb949d162",
         "anchor": "partners",
         "theme": "greyLight",
-        "isStretchHeight": false,
         "className": "is-style-greyLight",
-        "locationViewConditions": {
-          "rule": "include",
-          "region": "all",
-          "country": "all",
-          "showIfUserLocationUndefined": false
-        },
-        "contentAlignment": "left",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "contentAlignment": "left"
       },
       "innerBlocks": [
         {
@@ -1856,11 +1416,7 @@
             "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">We are trusted\u00a0by...</strong>",
             "align": "left",
             "format": "title-1",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
@@ -1869,11 +1425,7 @@
             "instanceId": "b8e37170-0b95-4b3b-ba8e-b3b2e92cac4a",
             "linkLabel": "Show case study",
             "growDirection": "horizontal",
-            "withLogoBackground": false,
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "withLogoBackground": false
           },
           "innerBlocks": [
             {
@@ -1885,25 +1437,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/12/Panasonic-3.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/12/09021908/Panasonic-3.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/12/09021908/Panasonic-3.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/12/09021908/Panasonic-3.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/12/09021908/Panasonic-3.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/panasonic-oneconnect/",
                   "title": "Panasonic OneConnect",
                   "path": "/cases/panasonic-oneconnect/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1915,25 +1458,16 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/NIO-1-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110108/image-49-2-1-1-100x100-1.jpg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110108/image-49-2-1-1-620x485-1.jpg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110108/image-49-2-1-1-720x750-1.jpg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110108/image-49-2-1-1-100x100-1.jpg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/nio-nomi/",
                   "title": "Nio-Nomi",
                   "path": "/cases/nio-nomi/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1945,25 +1479,16 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/NTT-Data-1-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110131/Fitness-Wellness-%E2%80%94-Skills-augmentation-min-1-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110131/Fitness-Wellness-%E2%80%94-Skills-augmentation-min-1-480x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110131/Fitness-Wellness-%E2%80%94-Skills-augmentation-min-1.jpg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110131/Fitness-Wellness-%E2%80%94-Skills-augmentation-min-1-100x100.png"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/ntt-data/",
                   "title": "NTT Data. Creating an in-car concierge service",
                   "path": "/cases/ntt-data/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1975,17 +1500,10 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Dolby-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015142/Dolby-1.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015142/Dolby-1.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015142/Dolby-1.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015142/Dolby-1.svg"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -1997,17 +1515,10 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/Black-All-Logotypes-Section-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110240/c80d0ff5ac5ec948bfa1b13e5ec74d7a-min-1-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110240/c80d0ff5ac5ec948bfa1b13e5ec74d7a-min-1-620x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110240/c80d0ff5ac5ec948bfa1b13e5ec74d7a-min-1-1920x750.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110240/c80d0ff5ac5ec948bfa1b13e5ec74d7a-min-1-100x100.png"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2019,21 +1530,14 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/Lufthansa-3-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": { "thumbnail": null, "medium": null, "large": null }
                 },
                 "link": {
                   "url": "https://star.global/cases/lufthansa/",
                   "title": "Lufthansa",
                   "path": "/cases/lufthansa/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2045,25 +1549,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Velux-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015251/Velux-1.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015251/Velux-1.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015251/Velux-1.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015251/Velux-1.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/velux/",
                   "title": "Velux",
                   "path": "/cases/velux/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2075,25 +1570,16 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/CloudMade-1-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://star.global/wp-content/uploads/2021/02/992102a3dc8854029e3022d78b390965-scaled-1-1-100x100.jpeg",
-                    "medium": "https://star.global/wp-content/uploads/2021/02/992102a3dc8854029e3022d78b390965-scaled-1-1-620x485.jpeg",
-                    "large": "https://star.global/wp-content/uploads/2021/02/992102a3dc8854029e3022d78b390965-scaled-1-1-1920x750.jpeg"
+                    "thumbnail": "https://star.global/wp-content/uploads/2021/02/992102a3dc8854029e3022d78b390965-scaled-1-1-100x100.jpeg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/cloudmade/",
                   "title": "CloudMade",
                   "path": "/cases/cloudmade/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2105,27 +1591,18 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/EGYM-1-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015341/EGYM-1-1.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015341/EGYM-1-1.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015341/EGYM-1-1.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015341/EGYM-1-1.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/egym/",
                   "title": "EGYM",
                   "path": "/cases/egym/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false,
                   "id": 20661,
                   "type": "case"
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2137,25 +1614,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/KEF-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015348/KEF-1.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015348/KEF-1.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015348/KEF-1.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015348/KEF-1.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/kef/",
                   "title": "KEF",
                   "path": "/cases/kef/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2167,17 +1635,10 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/Walmart-1-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110530/0142b7f785c93b2c87e3cd9e7fef5c5d-2-100x100-1.jpg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110530/0142b7f785c93b2c87e3cd9e7fef5c5d-2-620x485-1.jpg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110530/0142b7f785c93b2c87e3cd9e7fef5c5d-2.jpg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110530/0142b7f785c93b2c87e3cd9e7fef5c5d-2-100x100-1.jpg"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2189,17 +1650,10 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Xerox-3.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015405/Xerox-3.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015405/Xerox-3.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015405/Xerox-3.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015405/Xerox-3.svg"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2211,25 +1665,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Constant-Therapy.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015437/Constant-Therapy.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015437/Constant-Therapy.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015437/Constant-Therapy.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015437/Constant-Therapy.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/constant-therapy/",
                   "title": "Constant Therapy",
                   "path": "/cases/constant-therapy/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2241,25 +1686,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Zeiss-3.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015445/Zeiss-3.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015445/Zeiss-3.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015445/Zeiss-3.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015445/Zeiss-3.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/zeiss/",
                   "title": "Zeiss",
                   "path": "/cases/zeiss/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2271,17 +1707,10 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/Winora-1-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110544/wr-1-100x100-1.jpg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110544/wr-1-620x485-1.jpg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110544/wr-1.jpg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110544/wr-1-100x100-1.jpg"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2293,17 +1722,10 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Haier.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015459/Haier.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015459/Haier.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015459/Haier.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015459/Haier.svg"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2315,25 +1737,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Johnson-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015528/Johnson-1.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015528/Johnson-1.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015528/Johnson-1.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015528/Johnson-1.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/johnson-fit/",
                   "title": "Johnson Health Tech",
                   "path": "/cases/johnson-fit/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2345,7 +1758,6 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/Tweddle-1.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": { "thumbnail": null, "medium": null, "large": null }
                 },
                 "link": {
@@ -2354,14 +1766,8 @@
                   "title": "Tweddle Group",
                   "type": "case",
                   "path": "/cases/automotive-solutions-tweddle-group/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2373,21 +1779,14 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/Saic-Black.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": { "thumbnail": null, "medium": null, "large": null }
                 },
                 "link": {
                   "url": "https://star.global/cases/hmi-design-for-mg-cars/",
                   "title": "SAIC OIMT",
                   "path": "/cases/hmi-design-for-mg-cars/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2399,19 +1798,12 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/smaato_b_420x180.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "title": "smaato_b_420x180",
                   "filename": "smaato_b_420x180.png",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/12033016/smaato_b_420x180-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/12033016/smaato_b_420x180.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/12033016/smaato_b_420x180.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/12033016/smaato_b_420x180-100x100.png"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2420,21 +1812,14 @@
                 "instanceId": "f8a66891-fbdf-4698-9100-f7abefd4a3cb",
                 "logo": {
                   "id": 27903,
-                  "alt": "",
                   "url": "https://star.global/wp-content/uploads/2020/11/Still-3.svg"
                 },
                 "link": {
                   "url": "https://star.global/cases/still/",
                   "title": "Still",
                   "path": "/cases/still/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2446,25 +1831,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/waggit-logo.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015619/waggit-logo-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015619/waggit-logo.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015619/waggit-logo.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015619/waggit-logo-100x100.png"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/waggit/",
                   "title": "Waggit",
                   "path": "/cases/waggit/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2476,17 +1852,10 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Viral-Gains.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015626/Viral-Gains.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015626/Viral-Gains.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015626/Viral-Gains.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015626/Viral-Gains.svg"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2498,25 +1867,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/uhuru.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015633/uhuru.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015633/uhuru.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015633/uhuru.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015633/uhuru.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/uhuru/",
                   "title": "Uhuru",
                   "path": "/cases/uhuru/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2528,17 +1888,10 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/SimCorp.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015659/SimCorp.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015659/SimCorp.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015659/SimCorp.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015659/SimCorp.svg"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2550,17 +1903,10 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Magellan.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015706/Magellan.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015706/Magellan.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015706/Magellan.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015706/Magellan.svg"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2572,17 +1918,10 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/Kit-Check.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015712/Kit-Check.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015712/Kit-Check.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015712/Kit-Check.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015712/Kit-Check.svg"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2594,25 +1933,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/FLS-Midth.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015718/FLS-Midth.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015718/FLS-Midth.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015718/FLS-Midth.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015718/FLS-Midth.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/flsmidth/",
                   "title": "FLSmidth",
                   "path": "/cases/flsmidth/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2624,25 +1954,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/1800-Accountant.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015745/1800-Accountant.svg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015745/1800-Accountant.svg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015745/1800-Accountant.svg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015745/1800-Accountant.svg"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/1-800accountant/",
                   "title": "1-800Accountant",
                   "path": "/cases/1-800accountant/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2654,21 +1975,14 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/Appyway.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": { "thumbnail": null, "medium": null, "large": null }
                 },
                 "link": {
                   "url": "https://star.global/cases/appyway/",
                   "title": "AppyWay",
                   "path": "/cases/appyway/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2680,21 +1994,14 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/Denso.svg",
                   "type": "image",
                   "mime": "image/svg+xml",
-                  "alt": "",
                   "sizes": { "thumbnail": null, "medium": null, "large": null }
                 },
                 "link": {
                   "url": "https://star.global/cases/future-of-automotive-denso-case/",
                   "title": "Denso: Exploring the future of in-car comfort with a world-leading automotive supplier",
                   "path": "/cases/future-of-automotive-denso-case/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2706,25 +2013,16 @@
                   "url": "https://star.global/wp-content/uploads/2020/08/clarify_b_420x180.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/08/27052013/clarify_b_420x180-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/08/27052013/clarify_b_420x180.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/08/27052013/clarify_b_420x180.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/08/27052013/clarify_b_420x180-100x100.png"
                   }
                 },
                 "link": {
                   "url": "https://star.global/cases/clarify-health-care-prism/",
                   "title": "Clarify Health Care Prism",
                   "path": "/cases/clarify-health-care-prism/",
-                  "target": "_self",
-                  "rel": "",
                   "opensInNewTab": false
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2736,28 +2034,19 @@
                   "url": "https://star.global/wp-content/uploads/2021/03/logo-6-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "filename": "logo-6-1.png",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/03/22104558/logo-6-1-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/03/22104558/logo-6-1.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/03/22104558/logo-6-1.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/03/22104558/logo-6-1-100x100.png"
                   }
                 },
                 "link": {
                   "id": "https://star.global/cases/covid-calculator-one-concern/",
                   "title": "https://star.global/cases/covid-calculator-one-concern/",
                   "url": "https://star.global/cases/covid-calculator-one-concern/",
-                  "type": "URL",
                   "path": "/cases/covid-calculator-one-concern/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2769,28 +2058,19 @@
                   "url": "https://star.global/wp-content/uploads/2021/03/design_in_health_b_420x180-1.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "filename": "design_in_health_b_420x180-1.png",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/03/22104954/design_in_health_b_420x180-1-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/03/22104954/design_in_health_b_420x180-1.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/03/22104954/design_in_health_b_420x180-1.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/03/22104954/design_in_health_b_420x180-1-100x100.png"
                   }
                 },
                 "link": {
                   "id": "https://star.global/cases/digital-health-design/",
                   "title": "https://star.global/cases/digital-health-design/",
                   "url": "https://star.global/cases/digital-health-design/",
-                  "type": "URL",
                   "path": "/cases/digital-health-design/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -2802,19 +2082,12 @@
                   "url": "https://star.global/wp-content/uploads/2021/02/ADI-black.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "title": "ADI black",
                   "filename": "ADI-black.png",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/12024421/ADI-black-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/12024421/ADI-black.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/12024421/ADI-black.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/12024421/ADI-black-100x100.png"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             }
           ]
@@ -2828,32 +2101,20 @@
         "anchor": "awards",
         "startTheme": "gradient-violet-3",
         "withLogoCloseUp": true,
-        "className": "is-style-gradient-violet-3",
-        "isMobileHidden": false,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "className": "is-style-gradient-violet-3"
       },
       "innerBlocks": [
         {
           "blockName": "columns",
           "attrs": {
             "instanceId": "ffff12a9-66e9-4fbe-b7f7-4fc0d7ce6cc8",
-            "count": 2,
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "count": 2
           },
           "innerBlocks": [
             {
               "blockName": "column",
               "attrs": {
-                "instanceId": "326e57b8-9efb-4d60-9966-c6572a7899ca",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "instanceId": "326e57b8-9efb-4d60-9966-c6572a7899ca"
               },
               "innerBlocks": [
                 {
@@ -2864,11 +2125,7 @@
                     "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Achieve excellen</strong><strong data-font-face=\"bold\" class=\"swc-bold\">ce with Star</strong>",
                     "align": "left",
                     "format": "title-3",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "regular"
                   }
                 },
                 {
@@ -2879,11 +2136,7 @@
                     "text": "<span data-font-face=\"light\" class=\"swc-light\">Check out the awards and recognition our partners have received</span>.",
                     "format": "body-1",
                     "bgColor": "transparent",
-                    "fontFace": "regular",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "fontFace": "regular"
                   }
                 },
                 {
@@ -2898,18 +2151,13 @@
                       "type": "page",
                       "path": "/contact/",
                       "target": "_blank",
-                      "rel": "",
                       "opensInNewTab": true
                     },
                     "skin": "blackGreen",
                     "size": "md",
                     "type": "solid",
                     "icon": "arrow",
-                    "parentEndTheme": "gradient-green-2",
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    "parentEndTheme": "gradient-green-2"
                   }
                 }
               ]
@@ -2917,11 +2165,7 @@
             {
               "blockName": "column",
               "attrs": {
-                "instanceId": "1b61f6de-a310-4943-ae9f-ec42e1b0569f",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "instanceId": "1b61f6de-a310-4943-ae9f-ec42e1b0569f"
               },
               "innerBlocks": [
                 {
@@ -2934,13 +2178,10 @@
                         "url": "https://star.global/wp-content/uploads/2021/08/CES.png",
                         "type": "image",
                         "mime": "image/png",
-                        "alt": "",
                         "title": "CES",
                         "filename": "CES.png",
                         "sizes": {
-                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145728/CES-100x100.png",
-                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145728/CES.png",
-                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145728/CES.png"
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145728/CES-100x100.png"
                         }
                       },
                       {
@@ -2948,13 +2189,10 @@
                         "url": "https://star.global/wp-content/uploads/2021/08/Red-Dot.png",
                         "type": "image",
                         "mime": "image/png",
-                        "alt": "",
                         "title": "Red Dot",
                         "filename": "Red-Dot.png",
                         "sizes": {
-                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145738/Red-Dot-100x100.png",
-                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145738/Red-Dot.png",
-                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145738/Red-Dot.png"
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145738/Red-Dot-100x100.png"
                         }
                       },
                       {
@@ -2962,13 +2200,10 @@
                         "url": "https://star.global/wp-content/uploads/2021/08/IF.png",
                         "type": "image",
                         "mime": "image/png",
-                        "alt": "",
                         "title": "IF",
                         "filename": "IF.png",
                         "sizes": {
-                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145734/IF-100x100.png",
-                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145734/IF.png",
-                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145734/IF.png"
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145734/IF-100x100.png"
                         }
                       },
                       {
@@ -2976,13 +2211,10 @@
                         "url": "https://star.global/wp-content/uploads/2021/08/UX.png",
                         "type": "image",
                         "mime": "image/png",
-                        "alt": "",
                         "title": "UX",
                         "filename": "UX.png",
                         "sizes": {
-                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145740/UX-100x100.png",
-                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145740/UX.png",
-                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145740/UX.png"
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145740/UX-100x100.png"
                         }
                       },
                       {
@@ -2990,13 +2222,10 @@
                         "url": "https://star.global/wp-content/uploads/2021/08/NAMM.png",
                         "type": "image",
                         "mime": "image/png",
-                        "alt": "",
                         "title": "NAMM",
                         "filename": "NAMM.png",
                         "sizes": {
-                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145736/NAMM-100x100.png",
-                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145736/NAMM.png",
-                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145736/NAMM.png"
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145736/NAMM-100x100.png"
                         }
                       },
                       {
@@ -3004,20 +2233,13 @@
                         "url": "https://star.global/wp-content/uploads/2021/08/CTIA.png",
                         "type": "image",
                         "mime": "image/png",
-                        "alt": "",
                         "title": "CTIA",
                         "filename": "CTIA.png",
                         "sizes": {
-                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145730/CTIA-100x100.png",
-                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145730/CTIA.png",
-                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145730/CTIA.png"
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145730/CTIA-100x100.png"
                         }
                       }
-                    ],
-                    "isMobileHidden": false,
-                    "isDesktopHidden": false,
-                    "isZeroMarginTop": false,
-                    "isZeroMarginBottom": false
+                    ]
                   }
                 }
               ]
@@ -3032,18 +2254,8 @@
         "instanceId": "47230e36-5fb7-4820-b880-cf333c336efa",
         "anchor": "certificates",
         "theme": "white",
-        "isStretchHeight": false,
-        "locationViewConditions": {
-          "rule": "include",
-          "region": "all",
-          "country": "all",
-          "showIfUserLocationUndefined": false
-        },
         "contentAlignment": "left",
-        "isMobileHidden": true,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "isMobileHidden": true
       },
       "innerBlocks": [
         {
@@ -3054,21 +2266,13 @@
             "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">We\u2019re certified and experienced technologists</strong>",
             "align": "left",
             "format": "title-2",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
           "blockName": "icon-cards",
           "attrs": {
-            "instanceId": "223bad7c-1202-4ea5-917c-00b8eef05cb4",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "instanceId": "223bad7c-1202-4ea5-917c-00b8eef05cb4"
           },
           "innerBlocks": [
             {
@@ -3082,17 +2286,10 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/iso.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso-100x100.png"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -3106,17 +2303,10 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/iso.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso-100x100.png"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             },
             {
@@ -3130,17 +2320,10 @@
                   "url": "https://star.global/wp-content/uploads/2020/11/iso.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso-100x100.png"
                   }
-                },
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                }
               }
             }
           ]
@@ -3153,19 +2336,9 @@
         "instanceId": "c0a53235-ab07-45c5-b80f-8c677c3ff271",
         "anchor": "insights",
         "theme": "greyLight",
-        "isStretchHeight": false,
         "className": "is-style-greyLight",
-        "locationViewConditions": {
-          "rule": "include",
-          "region": "all",
-          "country": "all",
-          "showIfUserLocationUndefined": false
-        },
         "contentAlignment": "left",
-        "isMobileHidden": true,
-        "isDesktopHidden": false,
-        "isZeroMarginTop": false,
-        "isZeroMarginBottom": false
+        "isMobileHidden": true
       },
       "innerBlocks": [
         {
@@ -3176,22 +2349,14 @@
             "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Insights</strong>",
             "align": "left",
             "format": "title-1",
-            "fontFace": "regular",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "fontFace": "regular"
           }
         },
         {
           "blockName": "insights",
           "attrs": {
             "instanceId": "3b90e9d6-b015-4a50-970b-892e8fb63b35",
-            "hoverBgTile": "purple",
-            "isMobileHidden": false,
-            "isDesktopHidden": false,
-            "isZeroMarginTop": false,
-            "isZeroMarginBottom": false
+            "hoverBgTile": "purple"
           },
           "innerBlocks": [
             {
@@ -3205,10 +2370,8 @@
                   "id": "https://star.global/posts/healthcare-interoperability-samd-and-iomt-solutions/",
                   "title": "https://star.global/posts/healthcare-interoperability-samd-and-iomt-solutions/",
                   "url": "https://star.global/posts/healthcare-interoperability-samd-and-iomt-solutions/",
-                  "type": "URL",
                   "path": "/posts/healthcare-interoperability-samd-and-iomt-solutions/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
                 },
                 "background": {
@@ -3216,21 +2379,13 @@
                   "url": "https://star.global/wp-content/uploads/2022/03/interoperability_738x526.jpeg",
                   "type": "image",
                   "mime": "image/jpeg",
-                  "alt": "",
                   "title": "interoperability_738x526",
                   "filename": "interoperability_738x526.jpeg",
-                  "withSize": true,
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/03/01014115/interoperability_738x526-100x100.jpeg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2022/03/01014115/interoperability_738x526-620x485.jpeg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2022/03/01014115/interoperability_738x526.jpeg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/03/01014115/interoperability_738x526-100x100.jpeg"
                   }
                 },
-                "className": "is-style-bg-tile",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-bg-tile"
               }
             },
             {
@@ -3244,16 +2399,11 @@
                   "url": "https://star.global/posts/",
                   "title": "Posts",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true,
                   "path": "/posts/"
                 },
                 "linkLabel": "View all insights",
-                "className": "is-style-dark-purple",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-dark-purple"
               }
             },
             {
@@ -3267,10 +2417,8 @@
                   "id": "https://star.global/posts/ai-technologies-for-healthcare-products/",
                   "title": "https://star.global/posts/ai-technologies-for-healthcare-products/",
                   "url": "https://star.global/posts/ai-technologies-for-healthcare-products/",
-                  "type": "URL",
                   "path": "/posts/ai-technologies-for-healthcare-products/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
                 },
                 "background": {
@@ -3278,21 +2426,13 @@
                   "url": "https://star.global/wp-content/uploads/2022/01/738_AI.png",
                   "type": "image",
                   "mime": "image/png",
-                  "alt": "",
                   "title": "738_AI",
                   "filename": "738_AI.png",
-                  "withSize": true,
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/01/26084133/738_AI-100x100.png",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2022/01/26084133/738_AI-620x485.png",
-                    "large": "https://cdn.star.global/wp-content/uploads/2022/01/26084133/738_AI.png"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/01/26084133/738_AI-100x100.png"
                   }
                 },
-                "className": "is-style-purple-tile",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-purple-tile"
               }
             },
             {
@@ -3306,10 +2446,8 @@
                   "id": "https://star.global/posts/e-wallet-development/",
                   "title": "https://star.global/posts/e-wallet-development/",
                   "url": "https://star.global/posts/e-wallet-development/",
-                  "type": "URL",
                   "path": "/posts/e-wallet-development/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
                 },
                 "background": {
@@ -3317,21 +2455,13 @@
                   "url": "https://star.global/wp-content/uploads/2022/02/e-wallets_cover_1260-2-1.jpg",
                   "type": "image",
                   "mime": "image/jpeg",
-                  "alt": "",
                   "title": "e-wallets_cover_1260 (2)",
                   "filename": "e-wallets_cover_1260-2-1.jpg",
-                  "withSize": true,
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/02/15032040/e-wallets_cover_1260-2-1-100x100.jpg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2022/02/15032040/e-wallets_cover_1260-2-1-620x485.jpg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2022/02/15032040/e-wallets_cover_1260-2-1-1260x750.jpg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/02/15032040/e-wallets_cover_1260-2-1-100x100.jpg"
                   }
                 },
-                "className": "is-style-green-tile",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-green-tile"
               }
             },
             {
@@ -3345,10 +2475,8 @@
                   "id": "https://star.global/posts/how-to-start-a-career-in-digital-design-podcast/",
                   "title": "https://star.global/posts/how-to-start-a-career-in-digital-design-podcast/",
                   "url": "https://star.global/posts/how-to-start-a-career-in-digital-design-podcast/",
-                  "type": "URL",
                   "path": "/posts/how-to-start-a-career-in-digital-design-podcast/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
                 },
                 "background": {
@@ -3356,21 +2484,13 @@
                   "url": "https://star.global/wp-content/uploads/2022/02/Episode-2.11-Teaser-3.jpg",
                   "type": "image",
                   "mime": "image/jpeg",
-                  "alt": "",
                   "title": "Episode 2.11 Teaser (3)",
                   "filename": "Episode-2.11-Teaser-3.jpg",
-                  "withSize": true,
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/02/29075444/Episode-2.11-Teaser-3-100x100.jpg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2022/02/29075444/Episode-2.11-Teaser-3-620x485.jpg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2022/02/29075444/Episode-2.11-Teaser-3-1240x750.jpg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/02/29075444/Episode-2.11-Teaser-3-100x100.jpg"
                   }
                 },
-                "className": "is-style-bg-tile",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-bg-tile"
               }
             },
             {
@@ -3384,10 +2504,8 @@
                   "id": "https://star.global/posts/digital-health-technologies-for-aging-in-place-webinar/",
                   "title": "https://star.global/posts/digital-health-technologies-for-aging-in-place-webinar/",
                   "url": "https://star.global/posts/digital-health-technologies-for-aging-in-place-webinar/",
-                  "type": "URL",
                   "path": "/posts/digital-health-technologies-for-aging-in-place-webinar/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
                 },
                 "background": {
@@ -3395,21 +2513,13 @@
                   "url": "https://star.global/wp-content/uploads/2022/01/640x526.jpg",
                   "type": "image",
                   "mime": "image/jpeg",
-                  "alt": "",
                   "title": "640x526",
                   "filename": "640x526.jpg",
-                  "withSize": true,
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/01/02032232/640x526-100x100.jpg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2022/01/02032232/640x526-620x485.jpg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2022/01/02032232/640x526.jpg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/01/02032232/640x526-100x100.jpg"
                   }
                 },
-                "className": "is-style-bg-tile",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-bg-tile"
               }
             },
             {
@@ -3423,17 +2533,11 @@
                   "id": "https://star.global/posts/design-thinking-for-fleet-management/",
                   "title": "https://star.global/posts/design-thinking-for-fleet-management/",
                   "url": "https://star.global/posts/design-thinking-for-fleet-management/",
-                  "type": "URL",
                   "path": "/posts/design-thinking-for-fleet-management/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
                 },
-                "className": "is-style-purple-tile",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-purple-tile"
               }
             },
             {
@@ -3447,10 +2551,8 @@
                   "id": "https://star.global/posts/two-wheel-mobility-trends-2021-eicma/",
                   "title": "https://star.global/posts/two-wheel-mobility-trends-2021-eicma/",
                   "url": "https://star.global/posts/two-wheel-mobility-trends-2021-eicma/",
-                  "type": "URL",
                   "path": "/posts/two-wheel-mobility-trends-2021-eicma/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
                 },
                 "background": {
@@ -3461,18 +2563,11 @@
                   "alt": "trends in two-wheel mobility",
                   "title": "EICMA-2021_1260\u04451056",
                   "filename": "EICMA-2021_1260\u04451056.jpg",
-                  "withSize": true,
                   "sizes": {
-                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/12/24034304/EICMA-2021_1260%D1%851056-100x100.jpg",
-                    "medium": "https://cdn.star.global/wp-content/uploads/2021/12/24034304/EICMA-2021_1260%D1%851056-620x485.jpg",
-                    "large": "https://cdn.star.global/wp-content/uploads/2021/12/24034304/EICMA-2021_1260%D1%851056-1260x750.jpg"
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/12/24034304/EICMA-2021_1260%D1%851056-100x100.jpg"
                   }
                 },
-                "className": "is-style-bg-tile",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-bg-tile"
               }
             },
             {
@@ -3489,15 +2584,10 @@
                   "type": "page",
                   "path": "/posts/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
                 },
                 "linkLabel": "View all insights",
-                "className": "is-style-dark-purple",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-dark-purple"
               }
             },
             {
@@ -3511,17 +2601,11 @@
                   "id": "https://star.global/posts/reserve-the-fintech-upcoming-expert-report/",
                   "title": "https://star.global/posts/reserve-the-fintech-upcoming-expert-report/",
                   "url": "https://star.global/posts/reserve-the-fintech-upcoming-expert-report/",
-                  "type": "URL",
                   "path": "/posts/reserve-the-fintech-upcoming-expert-report/",
                   "target": "_blank",
-                  "rel": "",
                   "opensInNewTab": true
                 },
-                "className": "is-style-green-tile",
-                "isMobileHidden": false,
-                "isDesktopHidden": false,
-                "isZeroMarginTop": false,
-                "isZeroMarginBottom": false
+                "className": "is-style-green-tile"
               }
             }
           ]
