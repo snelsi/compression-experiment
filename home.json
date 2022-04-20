@@ -1,0 +1,3552 @@
+{
+  "id": "27701",
+  "title": "Home 4",
+  "content": [
+    {
+      "blockName": "section-default",
+      "attrs": {
+        "instanceId": "128b9943-168f-49db-859e-3291f92b4c4f",
+        "theme": "bg-custom",
+        "background": {
+          "id": 27746,
+          "url": "https://star.global/wp-content/uploads/2020/11/Final-Desktop-2.mp4",
+          "type": "video",
+          "mime": "video/mp4",
+          "alt": ""
+        },
+        "backgroundPlaceholder": {
+          "id": 31140,
+          "url": "https://star.global/wp-content/uploads/2021/01/2-scaled-1-min.jpg",
+          "type": "image",
+          "mime": "image/jpeg",
+          "alt": "",
+          "title": "2-scaled-1-min",
+          "filename": "2-scaled-1-min.jpg",
+          "withSize": true,
+          "sizes": {
+            "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/01/20015623/2-scaled-1-min-100x100.jpg",
+            "medium": "https://cdn.star.global/wp-content/uploads/2021/01/20015623/2-scaled-1-min-620x485.jpg",
+            "large": "https://cdn.star.global/wp-content/uploads/2021/01/20015623/2-scaled-1-min-1920x750.jpg"
+          }
+        },
+        "backgroundMobile": {
+          "id": 27749,
+          "url": "https://star.global/wp-content/uploads/2020/11/Final-Mobile-2.mp4",
+          "type": "video",
+          "mime": "video/mp4",
+          "alt": "",
+          "title": "Final-Mobile-2",
+          "filename": "Final-Mobile-2.mp4",
+          "withSize": true
+        },
+        "backgroundMobilePlaceholder": {
+          "id": 65556,
+          "url": "https://star.global/wp-content/uploads/2022/04/1-1.jpeg",
+          "type": "image",
+          "mime": "image/jpeg",
+          "alt": "",
+          "title": "1-1",
+          "filename": "1-1.jpeg",
+          "withSize": true,
+          "sizes": {
+            "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/04/05030717/1-1-100x100.jpeg",
+            "medium": "https://cdn.star.global/wp-content/uploads/2022/04/05030717/1-1-620x485.jpeg",
+            "large": "https://cdn.star.global/wp-content/uploads/2022/04/05030717/1-1-1162x750.jpeg"
+          }
+        },
+        "isStretchHeight": true,
+        "className": "is-style-bg-custom",
+        "locationViewConditions": {
+          "rule": "include",
+          "region": "all",
+          "country": "all",
+          "showIfUserLocationUndefined": false
+        },
+        "contentAlignment": "left",
+        "isMobileHidden": false,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "heading",
+          "attrs": {
+            "instanceId": "b2a13dc7-87ab-4afe-8c12-499f00945e38",
+            "level": 1,
+            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Star is a global team of product creators.</strong>",
+            "align": "left",
+            "format": "title-3",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "heading",
+          "attrs": {
+            "instanceId": "95cdf563-6b0b-464c-95e1-9249fac5f1ff",
+            "level": 3,
+            "text": "Whether you are a start-up or an enterprise, we help you innovate, transform, grow and prosper.",
+            "align": "left",
+            "format": "title-3",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "buttons",
+          "attrs": {
+            "instanceId": "fc479934-fe86-46f1-a95a-1c7711deaea7",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "button",
+              "attrs": {
+                "instanceId": "b8fb919c-aca1-43cd-a78c-a8ef89ce9850",
+                "label": "Explore our work",
+                "link": {
+                  "url": "/our-work",
+                  "title": "Our Work",
+                  "path": "/our-work",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "skin": "blackGreen",
+                "size": "lg",
+                "type": "solid",
+                "icon": "arrow",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "section-bg-action",
+      "attrs": {
+        "instanceId": "256ae087-1087-40dc-8220-9f1f06f7c51e",
+        "startTheme": "gradient-violet-3",
+        "mobileTheme": "gradient-green-5",
+        "withLogoCloseUp": false,
+        "className": "is-style-gradient-violet-3",
+        "isMobileHidden": false,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "columns",
+          "attrs": {
+            "instanceId": "1a20eb23-7146-459e-ab7b-fcbc882e95d6",
+            "count": 3,
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "column",
+              "attrs": {
+                "instanceId": "8bb50599-0e87-4286-952c-7baadbecf545",
+                "parentEndTheme": "gradient-green-3",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "heading",
+                  "attrs": {
+                    "instanceId": "33dbe076-4f2d-458a-81df-1de44aae6f34",
+                    "level": 5,
+                    "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Client stories</strong>",
+                    "align": "left",
+                    "format": "title-5",
+                    "fontFace": "regular",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "paragraph",
+                  "attrs": {
+                    "className": "text-smtext-sm",
+                    "instanceId": "a8df099b-51eb-4787-b86a-b3b9b29ec2d9",
+                    "text": "See how Star helps companies <br>go from idea to market and beyond",
+                    "format": "body-3",
+                    "bgColor": "transparent",
+                    "fontFace": "regular",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "button",
+                  "attrs": {
+                    "instanceId": "3ead3e64-b9bc-4425-bc98-5d2a822e19d3",
+                    "label": "Explore our case studies",
+                    "link": {
+                      "id": 52,
+                      "url": "https://star.global/our-work/",
+                      "title": "Our Work",
+                      "type": "page",
+                      "path": "/our-work/",
+                      "target": "_blank",
+                      "rel": "",
+                      "opensInNewTab": true
+                    },
+                    "skin": "white",
+                    "size": "md",
+                    "type": "link",
+                    "icon": "arrow",
+                    "parentEndTheme": "gradient-violet-3",
+                    "className": "is-style-link",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "column",
+              "attrs": {
+                "instanceId": "c5f7984c-e831-4565-bee8-af95d4978ff2",
+                "parentEndTheme": "gradient-violet-4",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "heading",
+                  "attrs": {
+                    "instanceId": "ef7dec4f-c887-4769-9f5f-21c8119d137b",
+                    "level": 5,
+                    "text": "<strong>Latest thinking</strong>",
+                    "align": "left",
+                    "format": "title-5",
+                    "fontFace": "regular",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "paragraph",
+                  "attrs": {
+                    "className": "text-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-smtext-sm",
+                    "instanceId": "baf69876-9e5a-4c33-a3f4-548a86593589",
+                    "text": "Read our thought leadership <br>articles, reports and white papers",
+                    "format": "body-3",
+                    "bgColor": "transparent",
+                    "fontFace": "regular",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "button",
+                  "attrs": {
+                    "instanceId": "31a3cd20-df7a-4c2c-9acc-b39b625b6f87",
+                    "label": "Learn more",
+                    "link": {
+                      "id": 183,
+                      "url": "https://star.global/posts/",
+                      "title": "Posts",
+                      "type": "page",
+                      "path": "/posts/",
+                      "target": "_blank",
+                      "rel": "",
+                      "opensInNewTab": true
+                    },
+                    "skin": "white",
+                    "size": "md",
+                    "type": "link",
+                    "icon": "arrow",
+                    "parentEndTheme": "gradient-violet-4",
+                    "className": "is-style-link",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "column",
+              "attrs": {
+                "instanceId": "0edbe5a1-96da-438f-b16a-029d499aca49",
+                "parentEndTheme": "gradient-yellow-1",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "heading",
+                  "attrs": {
+                    "instanceId": "24603e0e-4f8c-4b35-bcd2-fc485b120fae",
+                    "level": 5,
+                    "text": "<strong>Shine podcast</strong>",
+                    "align": "left",
+                    "format": "title-5",
+                    "fontFace": "regular",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "paragraph",
+                  "attrs": {
+                    "className": "",
+                    "instanceId": "9e0b3d25-a52f-417b-b3d1-c2ae128a80e0",
+                    "text": "Break new ground with <br>Star Experts and special guests",
+                    "format": "body-3",
+                    "bgColor": "transparent",
+                    "fontFace": "regular",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "button",
+                  "attrs": {
+                    "instanceId": "5208b34b-b3cc-4696-91d4-677eede47a1c",
+                    "label": "Listen now",
+                    "link": {
+                      "path": "/shine-podcasts",
+                      "target": "_blank",
+                      "rel": "",
+                      "opensInNewTab": true,
+                      "title": "https://star.global/shine-podcasts",
+                      "type": "URL",
+                      "id": "https://star.global/shine-podcasts",
+                      "url": "https://star.global/shine-podcasts"
+                    },
+                    "skin": "white",
+                    "size": "md",
+                    "type": "link",
+                    "icon": "arrow",
+                    "parentEndTheme": "gradient-yellow-1",
+                    "className": "is-style-link",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "section-default",
+      "attrs": {
+        "instanceId": "ae7c1e2a-823d-4fc8-aa04-a7cb7cf8d2b1",
+        "theme": "white",
+        "isStretchHeight": false,
+        "locationViewConditions": {
+          "rule": "include",
+          "region": "all",
+          "country": "all",
+          "showIfUserLocationUndefined": false
+        },
+        "contentAlignment": "left",
+        "isMobileHidden": false,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "heading",
+          "attrs": {
+            "instanceId": "ac2394c2-fd4e-4334-a559-bb9821955c39",
+            "level": 2,
+            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Services</strong>",
+            "align": "left",
+            "format": "title-1",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "paragraph",
+          "attrs": {
+            "className": "text-md",
+            "instanceId": "d1261a10-521c-4f3d-9080-77f83149c64c",
+            "text": "<span data-font-face=\"light\" class=\"swc-light\">At Star, we\u2019re all about co-creation. From ideation through launch, <br>we work with our clients every step of the way.</span>",
+            "format": "body-1",
+            "bgColor": "transparent",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        }
+      ]
+    },
+    {
+      "blockName": "section-default",
+      "attrs": {
+        "instanceId": "78eb1031-336f-4944-acb9-845f1c9b0ea9",
+        "anchor": "services",
+        "theme": "bg-custom",
+        "background": {
+          "id": 66282,
+          "url": "https://star.global/wp-content/uploads/2022/04/Service-Lines-Block-Background-min-scaled.jpg",
+          "type": "image",
+          "mime": "image/jpeg",
+          "alt": "",
+          "title": "Service Lines Block Background-min",
+          "filename": "Service-Lines-Block-Background-min-scaled.jpg",
+          "withSize": true,
+          "sizes": {
+            "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/04/15053047/Service-Lines-Block-Background-min-100x100.jpg",
+            "medium": "https://cdn.star.global/wp-content/uploads/2022/04/15053047/Service-Lines-Block-Background-min-620x485.jpg",
+            "large": "https://cdn.star.global/wp-content/uploads/2022/04/15053047/Service-Lines-Block-Background-min-1920x750.jpg"
+          }
+        },
+        "isStretchHeight": false,
+        "className": "is-style-bg-custom",
+        "locationViewConditions": {
+          "rule": "include",
+          "region": "all",
+          "country": "all",
+          "showIfUserLocationUndefined": false
+        },
+        "contentAlignment": "left",
+        "isZeroMarginTop": true,
+        "isZeroMarginBottom": true,
+        "isMobileHidden": false,
+        "isDesktopHidden": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "services",
+          "attrs": {
+            "instanceId": "a29f4577-c9b3-47b9-9f46-fe7ee5ead2ab",
+            "theme": "green",
+            "mobileTheme": "purple",
+            "isZeroMarginTop": true,
+            "isZeroMarginBottom": true,
+            "isMobileHidden": false,
+            "isDesktopHidden": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "services-tile",
+              "attrs": {
+                "instanceId": "c5be90e7-93b8-4383-9fc8-3410393e2f84",
+                "title": "<strong>Star</strong>\u00a0Strategy",
+                "description": "Defining powerful endgames for your business and how to achieve them",
+                "items": [
+                  {
+                    "label": "Trends &amp; Insights",
+                    "value": "Trends &amp; Insights",
+                    "__isNew__": true
+                  },
+                  {
+                    "label": "Opportunity Exploration",
+                    "value": "Opportunity Exploration",
+                    "__isNew__": true
+                  },
+                  {
+                    "label": "Business Design",
+                    "value": "Business Design",
+                    "__isNew__": true
+                  },
+                  {
+                    "label": "Roadmap Development",
+                    "value": "Roadmap Development",
+                    "__isNew__": true
+                  },
+                  {
+                    "label": "Strategy Validation",
+                    "value": "Strategy Validation",
+                    "__isNew__": true
+                  }
+                ],
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "button",
+                  "attrs": {
+                    "instanceId": "493d8f0c-73c4-470c-9af2-3252c79ad3f3",
+                    "label": "Explore our expertise",
+                    "link": {
+                      "url": "https://star.global/strategy/",
+                      "path": "/strategy/",
+                      "target": "_blank",
+                      "rel": "",
+                      "opensInNewTab": true
+                    },
+                    "skin": "whiteBlack",
+                    "size": "md",
+                    "type": "link",
+                    "icon": "arrow",
+                    "className": "is-style-link",
+                    "isMobileHidden": true,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "button",
+                  "attrs": {
+                    "instanceId": "c5090611-5b77-4d16-b9cf-ce75fd1a458a",
+                    "label": "Explore our expertise",
+                    "link": {
+                      "url": "https://star.global/strategy/",
+                      "path": "/strategy/",
+                      "target": "_blank",
+                      "rel": "",
+                      "opensInNewTab": true
+                    },
+                    "skin": "greenBlack",
+                    "size": "md",
+                    "type": "solid",
+                    "icon": "arrow",
+                    "isDesktopHidden": true,
+                    "isMobileHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "services-tile",
+              "attrs": {
+                "instanceId": "34073c79-97c8-4eb4-b44a-17ae33299cfb",
+                "title": "<strong><strong>Star</strong>\u00a0</strong>Design",
+                "description": "Transforming vision into human-centered digital and physical experiences",
+                "items": [
+                  {
+                    "label": "Design Research",
+                    "value": "Design Research",
+                    "__isNew__": true
+                  },
+                  {
+                    "label": "Design Strategy",
+                    "value": "Design Strategy",
+                    "__isNew__": true
+                  },
+                  {
+                    "value": "88",
+                    "label": "Service Design &amp; Storytelling"
+                  },
+                  { "value": "105", "label": "Digital Design" },
+                  { "value": "106", "label": "Industrial Design" }
+                ],
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "button",
+                  "attrs": {
+                    "instanceId": "f49a7dd7-3283-4320-87da-aaffe903f5f4",
+                    "label": "Explore our expertise",
+                    "link": {
+                      "url": "https://star.global/design/",
+                      "path": "/design/",
+                      "target": "_blank",
+                      "rel": "",
+                      "opensInNewTab": true
+                    },
+                    "skin": "whiteBlack",
+                    "size": "md",
+                    "type": "link",
+                    "icon": "arrow",
+                    "className": "is-style-link",
+                    "isMobileHidden": true,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "button",
+                  "attrs": {
+                    "instanceId": "0880c263-6c94-4bbf-9026-b8676102ece2",
+                    "label": "Explore our expertise",
+                    "link": {
+                      "url": "https://star.global/design/",
+                      "path": "/design/",
+                      "target": "_blank",
+                      "rel": "",
+                      "opensInNewTab": true
+                    },
+                    "skin": "greenBlack",
+                    "size": "md",
+                    "type": "solid",
+                    "icon": "arrow",
+                    "isDesktopHidden": true,
+                    "isMobileHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "services-tile",
+              "attrs": {
+                "instanceId": "d596e14d-c59f-4fc4-af5e-d64269de49b2",
+                "title": "<strong><strong>Star</strong>\u00a0</strong>Engineering",
+                "description": "Building and developing<br>full stack scalable technology solutions",
+                "items": [
+                  {
+                    "label": "Web &amp; Mobile",
+                    "value": "Web &amp; Mobile",
+                    "__isNew__": true
+                  },
+                  {
+                    "label": "Embedded &amp; Hardware",
+                    "value": "Embedded &amp; Hardware",
+                    "__isNew__": true
+                  },
+                  { "value": "1563", "label": "Data Science" },
+                  { "value": "1566", "label": "Product Management" },
+                  { "value": 1562, "label": "Cloud Engineering &amp; DevOps" }
+                ],
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "button",
+                  "attrs": {
+                    "instanceId": "4edff817-6bd1-4af9-b782-0a5559acaa26",
+                    "label": "Explore our expertise",
+                    "link": {
+                      "url": "https://star.global/engineering/",
+                      "path": "/engineering/",
+                      "target": "_blank",
+                      "rel": "",
+                      "opensInNewTab": true
+                    },
+                    "skin": "whiteBlack",
+                    "size": "md",
+                    "type": "link",
+                    "icon": "arrow",
+                    "className": "is-style-link",
+                    "isMobileHidden": true,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "button",
+                  "attrs": {
+                    "instanceId": "8e30af5c-3a77-458a-9978-7555aa07a64f",
+                    "label": "Explore our expertise",
+                    "link": {
+                      "url": "https://star.global/engineering/",
+                      "path": "/engineering/",
+                      "target": "_blank",
+                      "rel": "",
+                      "opensInNewTab": true
+                    },
+                    "skin": "greenBlack",
+                    "size": "md",
+                    "type": "solid",
+                    "icon": "arrow",
+                    "isDesktopHidden": true,
+                    "isMobileHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "section-cta-card",
+      "attrs": {
+        "instanceId": "23bc69b7-146e-4955-9e74-1e57ada54f16",
+        "title": "Contact us now",
+        "text": "Learn more about how Star can help you bring game-changing ideas to\u00a0market.",
+        "theme": "green",
+        "isShowStarLogo": true,
+        "isDesktopHidden": true,
+        "isMobileHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "button",
+          "attrs": {
+            "instanceId": "659855d5-6bb8-4903-8b61-7a4a04d75b7f",
+            "label": "Contact us",
+            "link": {
+              "url": "https://star.global/contact/",
+              "title": "Contact",
+              "path": "/contact/",
+              "target": "_blank",
+              "rel": " noreferrer nofollow",
+              "noReferer": true,
+              "noFollow": true,
+              "opensInNewTab": true
+            },
+            "skin": "black",
+            "size": "md",
+            "type": "link",
+            "icon": "arrow",
+            "className": "is-style-link",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        }
+      ]
+    },
+    {
+      "blockName": "section-default",
+      "attrs": {
+        "instanceId": "ac1321cd-fb26-42ce-8cf1-a081e87565d1",
+        "anchor": "industries",
+        "theme": "white",
+        "isStretchHeight": false,
+        "locationViewConditions": {
+          "rule": "include",
+          "region": "all",
+          "country": "all",
+          "showIfUserLocationUndefined": false
+        },
+        "contentAlignment": "left",
+        "isZeroMarginBottom": true,
+        "isMobileHidden": false,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "heading",
+          "attrs": {
+            "instanceId": "50b62f6d-50f2-4c16-942e-59a75f7eede5",
+            "level": 2,
+            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Industries</strong>",
+            "align": "left",
+            "format": "title-1",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "paragraph",
+          "attrs": {
+            "instanceId": "1c9ba35c-0f70-4622-b6e5-95f105f56554",
+            "text": "We harness the latest technologies, cross-industry expertise and endgame thinking to ideate, build, launch and scale superior, user-centric products that drive impressive commercial results.",
+            "format": "body-1",
+            "bgColor": "transparent",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "industries",
+          "attrs": {
+            "instanceId": "ecf101cb-235d-47a1-9f71-ba66f53d1940",
+            "logosLabel": "Trusted by:",
+            "linkLabel": "Explore our expertise",
+            "hoverTheme": "purple",
+            "descriptionSide": "front",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "industry-tile",
+              "attrs": {
+                "instanceId": "69e8c9cc-e200-4c1b-a4e1-b39420ebc363",
+                "title": "Automotive &amp; Mobility",
+                "description": "Anticipating driver<br>and passenger needs",
+                "background": {
+                  "id": 37311,
+                  "url": "https://star.global/wp-content/uploads/2021/04/Automotive.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "filename": "Automotive.png",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024055/Automotive-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/04/13024055/Automotive-620x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/04/13024055/Automotive-738x750.png"
+                  }
+                },
+                "logos": [
+                  {
+                    "mime": "image/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "id": 28162,
+                    "url": "https://star.global/wp-content/uploads/2020/11/White-Industry-Flip-Card.svg",
+                    "alt": "",
+                    "link": "https://star.global/home-4/media-attachment-white-industry-flip-card/",
+                    "caption": "",
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/12012215/White-Industry-Flip-Card.svg",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/12012215/White-Industry-Flip-Card.svg",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/12012215/White-Industry-Flip-Card.svg"
+                    }
+                  },
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020337/Lufthansa-2-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020337/Lufthansa-2.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020337/Lufthansa-2.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27992,
+                    "url": "https://star.global/wp-content/uploads/2020/11/Lufthansa-2.png",
+                    "alt": "",
+                    "link": "https://star.global/home-4/media-attachment-lufthansa-2/",
+                    "caption": ""
+                  },
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020336/Panasonic-3-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020336/Panasonic-3.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020336/Panasonic-3.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27989,
+                    "url": "https://star.global/wp-content/uploads/2020/11/Panasonic-3.png",
+                    "alt": "",
+                    "link": "https://star.global/home-4/media-attachment-panasonic-3/",
+                    "caption": ""
+                  }
+                ],
+                "link": {
+                  "url": "/industry/automotive",
+                  "path": "/industry/automotive",
+                  "target": "_self",
+                  "rel": ""
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "industry-tile",
+              "attrs": {
+                "instanceId": "7a12e9e6-b415-483c-88c2-94609f801f2d",
+                "title": "HealthTech",
+                "description": "Tackling today's most immense <br>healthcare challenges",
+                "background": {
+                  "id": 37308,
+                  "url": "https://star.global/wp-content/uploads/2021/04/Health.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "filename": "Health.png",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024035/Health-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/04/13024035/Health-620x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/04/13024035/Health-738x750.png"
+                  }
+                },
+                "logos": [
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020250/Zeiss-100x92.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020250/Zeiss.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020250/Zeiss.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27977,
+                    "url": "https://star.global/wp-content/uploads/2020/11/Zeiss.png",
+                    "alt": "",
+                    "link": "https://star.global/?attachment_id=27977",
+                    "caption": ""
+                  },
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020251/Johnson-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020251/Johnson.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020251/Johnson.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27980,
+                    "url": "https://star.global/wp-content/uploads/2020/11/Johnson.png",
+                    "alt": "",
+                    "link": "https://star.global/?attachment_id=27980",
+                    "caption": ""
+                  },
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020253/EGYM-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020253/EGYM.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020253/EGYM.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27983,
+                    "url": "https://star.global/wp-content/uploads/2020/11/EGYM.png",
+                    "alt": "",
+                    "link": "https://star.global/?attachment_id=27983",
+                    "caption": ""
+                  }
+                ],
+                "link": {
+                  "opensInNewTab": false,
+                  "target": "_self",
+                  "rel": "",
+                  "noReferer": false,
+                  "noFollow": false,
+                  "path": "/industry/healthtech/",
+                  "id": "/industry/healthtech/",
+                  "title": "/industry/healthtech/",
+                  "url": "/industry/healthtech/",
+                  "type": "URL"
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "industry-tile",
+              "attrs": {
+                "instanceId": "4d893bf4-426b-49d6-874c-9ddb7a65f389",
+                "title": "FinTech",
+                "description": "Co-creating new <br>FinTech ventures &amp; products",
+                "background": {
+                  "id": 37320,
+                  "url": "https://star.global/wp-content/uploads/2021/04/FinTech.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "filename": "FinTech.png",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024142/FinTech-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/04/13024142/FinTech-620x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/04/13024142/FinTech-738x750.png"
+                  }
+                },
+                "logos": [
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020214/Expensify-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020214/Expensify.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020214/Expensify.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27971,
+                    "url": "https://star.global/wp-content/uploads/2020/11/Expensify.png",
+                    "alt": "",
+                    "link": "https://star.global/?attachment_id=27971",
+                    "caption": ""
+                  },
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020216/1800-Accountant-1-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020216/1800-Accountant-1.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020216/1800-Accountant-1.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27974,
+                    "url": "https://star.global/wp-content/uploads/2020/11/1800-Accountant-1.png",
+                    "alt": "",
+                    "link": "https://star.global/?attachment_id=27974",
+                    "caption": ""
+                  }
+                ],
+                "link": {
+                  "opensInNewTab": false,
+                  "target": "_self",
+                  "rel": "",
+                  "url": "/industry/fintech/",
+                  "noReferer": false,
+                  "noFollow": false,
+                  "path": "/industry/fintech/"
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "industry-tile",
+              "attrs": {
+                "instanceId": "53ae7d9c-6aef-4148-b259-962f42b5d287",
+                "title": "Consumer Electronics &amp; IoT",
+                "description": "Creating user<br>experiences that wow",
+                "background": {
+                  "id": 37323,
+                  "url": "https://star.global/wp-content/uploads/2021/04/Consumer-Electronics.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "filename": "Consumer-Electronics.png",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024154/Consumer-Electronics-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/04/13024154/Consumer-Electronics-620x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/04/13024154/Consumer-Electronics-738x750.png"
+                  }
+                },
+                "logos": [
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020149/Xerox-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020149/Xerox.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020149/Xerox.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27965,
+                    "url": "https://star.global/wp-content/uploads/2020/11/Xerox.png",
+                    "alt": "",
+                    "link": "https://star.global/?attachment_id=27965",
+                    "caption": ""
+                  },
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020150/Hisense-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020150/Hisense.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020150/Hisense.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27968,
+                    "url": "https://star.global/wp-content/uploads/2020/11/Hisense.png",
+                    "alt": "",
+                    "link": "https://star.global/?attachment_id=27968",
+                    "caption": ""
+                  }
+                ],
+                "link": {
+                  "opensInNewTab": false,
+                  "target": "_self",
+                  "rel": "",
+                  "url": "https://star.global/our-work/?industry=575",
+                  "noReferer": false,
+                  "noFollow": false,
+                  "path": "/our-work/?industry=575",
+                  "id": "https://star.global/our-work/?industry=575",
+                  "title": "https://star.global/our-work/?industry=575",
+                  "type": "URL"
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "industry-tile",
+              "attrs": {
+                "instanceId": "f957c370-9996-4be0-9e8d-47e94b0606b6",
+                "title": "Industry &amp; Manufacturing",
+                "description": "Helping our clients<br>lead the next Industrial Revolution",
+                "background": {
+                  "id": 37314,
+                  "url": "https://star.global/wp-content/uploads/2021/04/Manufacturing.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "filename": "Manufacturing.png",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/04/13024117/Manufacturing-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/04/13024117/Manufacturing-620x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/04/13024117/Manufacturing-738x750.png"
+                  }
+                },
+                "logos": [
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020121/Fetch-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020121/Fetch.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020121/Fetch.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27956,
+                    "url": "https://star.global/wp-content/uploads/2020/11/Fetch.png",
+                    "alt": "",
+                    "link": "https://star.global/?attachment_id=27956",
+                    "caption": ""
+                  },
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020123/FLSmidth-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020123/FLSmidth.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020123/FLSmidth.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27959,
+                    "url": "https://star.global/wp-content/uploads/2020/11/FLSmidth.png",
+                    "alt": "",
+                    "link": "https://star.global/?attachment_id=27959",
+                    "caption": ""
+                  },
+                  {
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020124/STILL-100x72.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020124/STILL.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020124/STILL.png"
+                    },
+                    "mime": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "id": 27962,
+                    "url": "https://star.global/wp-content/uploads/2020/11/STILL.png",
+                    "alt": "",
+                    "link": "https://star.global/?attachment_id=27962",
+                    "caption": ""
+                  }
+                ],
+                "link": {
+                  "url": "/our-work/?industry=571",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false,
+                  "path": "/our-work/?industry=571",
+                  "title": "/our-work/?industry=571",
+                  "id": "/our-work/?industry=571",
+                  "type": "URL"
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "industry-tile",
+              "attrs": {
+                "instanceId": "18c99c8e-1b89-472b-b472-1ee9eeec4290",
+                "title": "AdTech &amp; MarTech",
+                "description": "Harnessing data to build deep relationships ",
+                "background": {
+                  "id": 33279,
+                  "url": "https://star.global/wp-content/uploads/2021/02/Industry-Card-min.jpg",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/11042214/Industry-Card-min-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/11042214/Industry-Card-min-620x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/11042214/Industry-Card-min-738x750.png"
+                  }
+                },
+                "logos": [
+                  {
+                    "id": 10023,
+                    "url": "https://star.global/wp-content/uploads/2019/02/smaato.png",
+                    "type": "image",
+                    "mime": "image/png",
+                    "alt": "",
+                    "title": "smaato",
+                    "filename": "smaato.png",
+                    "sizes": {
+                      "thumbnail": "https://cdn.star.global/wp-content/uploads/2019/02/21022024/smaato-100x100.png",
+                      "medium": "https://cdn.star.global/wp-content/uploads/2019/02/21022024/smaato.png",
+                      "large": "https://cdn.star.global/wp-content/uploads/2019/02/21022024/smaato.png"
+                    }
+                  }
+                ],
+                "link": {
+                  "path": "/our-work/",
+                  "target": "_self",
+                  "rel": "",
+                  "title": "Our Work",
+                  "type": "page",
+                  "id": 52,
+                  "url": "https://star.global/our-work/"
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "section-default",
+      "attrs": {
+        "instanceId": "28373445-c1fd-4ade-9aec-11b92987e184",
+        "theme": "gradient-violet-2",
+        "className": "is-style-gradient-violet-2",
+        "locationViewConditions": {
+          "rule": "include",
+          "region": "all",
+          "country": "all",
+          "showIfUserLocationUndefined": false
+        },
+        "isMobileHidden": true,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "heading",
+          "attrs": {
+            "instanceId": "281b2194-5443-4283-b6c7-d5ab3ed4b4ec",
+            "level": 2,
+            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">We help companies accelerate product innovation and achieve lasting success</strong>",
+            "align": "left",
+            "format": "title-2",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "statistics",
+          "attrs": {
+            "instanceId": "9b83b939-4487-41f5-beba-6156d8906c69",
+            "hoverBoxColor": "purple",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "top-left-banner",
+              "attrs": {
+                "instanceId": "f1a0a456-dfb9-4832-b5e3-f1cf0bc4438c",
+                "title": "380+",
+                "description": "multinational clients",
+                "hoverTitle": "85%",
+                "hoverDescription": "of our new projects are recurring customers or referrals through our existing clients",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "top-middle-banner",
+              "attrs": {
+                "instanceId": "8a876e5e-80e7-4c3a-bc7d-b7c2e1727d8a",
+                "title": "935+",
+                "description": "completed projects",
+                "hoverTitle": "40%",
+                "hoverDescription": "faster delivery than market average",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "top-right-banner",
+              "attrs": {
+                "instanceId": "929d04d8-906e-42d7-9675-52f7800516a6",
+                "title": "80",
+                "description": "NPS",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "wide-banner",
+              "attrs": {
+                "instanceId": "8bed974d-bc8c-48c3-92a1-1d425b20c0eb",
+                "title": "14+",
+                "description": "years on the market",
+                "hoverTitle": "11",
+                "hoverDescription": "locations worldwide",
+                "background": {
+                  "id": 33054,
+                  "url": "https://star.global/wp-content/uploads/2021/02/numbers-1-1-2.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "filename": "numbers-1-1-2.png",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10120229/numbers-1-1-2-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10120229/numbers-1-1-2-620x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10120229/numbers-1-1-2-1920x561.png"
+                  }
+                },
+                "hoverBackground": {
+                  "id": 33123,
+                  "url": "https://star.global/wp-content/uploads/2021/02/numbers-2-1.jpg",
+                  "type": "image",
+                  "mime": "image/jpeg",
+                  "alt": "",
+                  "filename": "numbers-2-1.jpg",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10121428/numbers-2-1-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10121428/numbers-2-1-620x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10121428/numbers-2-1-1920x558.png"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "section-default",
+      "attrs": {
+        "instanceId": "c37ed7cf-7fbd-4f38-87a7-2a3a4d4e4658",
+        "anchor": "cases",
+        "theme": "white",
+        "isStretchHeight": false,
+        "locationViewConditions": {
+          "rule": "include",
+          "region": "all",
+          "country": "all",
+          "showIfUserLocationUndefined": false
+        },
+        "contentAlignment": "left",
+        "isMobileHidden": false,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "heading",
+          "attrs": {
+            "instanceId": "4d4e4ee4-4af7-4bb2-ba92-7ff62bdcb89c",
+            "level": 2,
+            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Our Work</strong>",
+            "align": "left",
+            "format": "title-1",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "paragraph",
+          "attrs": {
+            "className": "text-md",
+            "instanceId": "4c638939-121e-4ff7-85d4-c087e33f9f8c",
+            "text": "<span data-font-face=\"light\" class=\"swc-light\">Human-centered design, strategy and engineering in one seamless workflow. </span><br><span data-font-face=\"light\" class=\"swc-light\">Here\u2019s how we help our clients define and reach their endgame.&nbsp;</span>",
+            "format": "body-1",
+            "bgColor": "transparent",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "cases",
+          "attrs": {
+            "instanceId": "d20c7b28-fe21-452a-903f-fdd8b895e4bc",
+            "innerLogoBg": "transparent",
+            "hoverBgTile": "green",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "case-tile",
+              "attrs": {
+                "instanceId": "4752bd9f-dc14-42d0-beee-60242a468143",
+                "title": "<strong>Helping a fitness brand hit the finish line</strong>",
+                "suptitle": "HealthTech, Web Engineering",
+                "description": "",
+                "layout": "bg-tile",
+                "logo": {
+                  "id": 50629,
+                  "url": "https://star.global/wp-content/uploads/2021/09/Client_s-NameJohnson.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "title": "Client_s Name=Johnson",
+                  "filename": "Client_s-NameJohnson.svg",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/09/21045553/Client_s-NameJohnson.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/09/21045553/Client_s-NameJohnson.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/09/21045553/Client_s-NameJohnson.svg"
+                  }
+                },
+                "background": {
+                  "id": 32792,
+                  "url": "https://star.global/wp-content/uploads/2021/02/4c471b5e97770bdd1f5d3883e2d708dc-1.jpg",
+                  "type": "image",
+                  "mime": "image/jpeg",
+                  "alt": "",
+                  "filename": "4c471b5e97770bdd1f5d3883e2d708dc-1.jpg",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110607/4c471b5e97770bdd1f5d3883e2d708dc-1-100x100-1.jpg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110607/4c471b5e97770bdd1f5d3883e2d708dc-1-620x485-1.jpg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110607/4c471b5e97770bdd1f5d3883e2d708dc-1-678x750-1.jpg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/johnson-fit/",
+                  "title": "Johnson Health Tech",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true,
+                  "path": "/cases/johnson-fit/"
+                },
+                "button": {
+                  "type": "solid",
+                  "skin": "greenBlack",
+                  "size": "md",
+                  "label": "Read full story",
+                  "withArrow": true,
+                  "icon": "arrow"
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "case-tile",
+              "attrs": {
+                "instanceId": "7cd08d46-e61c-4ddc-8d18-7aec64a051c2",
+                "title": "<strong>Teaming up with Lufthansa Group to co-create a new premium travel experience</strong>",
+                "suptitle": "Automotive &amp; Mobility, Digital Design",
+                "description": "Together with the Passenger Experience design teams at Lufthansa, Swiss and Austrian Airlines, Star has supported multiple innovation projects to elevate the passenger journey across digital and physical touchpoints.",
+                "layout": "plain-tile",
+                "logo": {
+                  "id": 27946,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Lufthansa-4.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020015/Lufthansa-4.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020015/Lufthansa-4.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020015/Lufthansa-4.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/lufthansa/",
+                  "title": "Lufthansa",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true,
+                  "path": "/cases/lufthansa/"
+                },
+                "button": {
+                  "type": "solid",
+                  "skin": "blackGreen",
+                  "size": "md",
+                  "label": "Read full story",
+                  "withArrow": true,
+                  "icon": "arrow"
+                },
+                "className": "is-style-plain-tile",
+                "isMobileHidden": true,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "case-tile",
+              "attrs": {
+                "instanceId": "e859c61e-7451-4daa-8428-e5e923345ef8",
+                "title": "<strong>Helping ZEISS digitally transform the eye exam</strong>",
+                "suptitle": "Healthtech, End-to-end Product Development",
+                "description": "Star co-created the award-winning telehealth platform VISU360 with ZEISS. The secure, compliant and scalable solution connects optometrists to remote patients, improves provider workflows and boosts revenue opportunities for retailers.",
+                "layout": "plain-tile",
+                "logo": {
+                  "id": 27943,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Zeiss-4.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11020008/Zeiss-4.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11020008/Zeiss-4.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11020008/Zeiss-4.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/zeiss/",
+                  "title": "Zeiss",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true,
+                  "path": "/cases/zeiss/"
+                },
+                "button": {
+                  "type": "solid",
+                  "skin": "blackGreen",
+                  "size": "md",
+                  "label": "Read full story",
+                  "withArrow": true,
+                  "icon": "arrow"
+                },
+                "className": "is-style-plain-tile",
+                "isMobileHidden": true,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "case-tile",
+              "attrs": {
+                "instanceId": "aaa0e6bb-f0dd-4d67-8e80-bfd8d82d2e54",
+                "title": "<strong>Making vehicles smarter</strong>",
+                "suptitle": "Automotive &amp; Mobility, End-to-end Product Development",
+                "description": "",
+                "layout": "bg-tile",
+                "logo": {
+                  "id": 50632,
+                  "url": "https://star.global/wp-content/uploads/2021/09/Client_s-NamePanasonic.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "title": "Client_s Name=Panasonic",
+                  "filename": "Client_s-NamePanasonic.svg",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/09/21045610/Client_s-NamePanasonic.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/09/21045610/Client_s-NamePanasonic.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/09/21045610/Client_s-NamePanasonic.svg"
+                  }
+                },
+                "background": {
+                  "id": 27788,
+                  "url": "https://star.global/wp-content/uploads/2020/11/caes-2-min-1.gif",
+                  "type": "image",
+                  "mime": "image/gif",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10150012/caes-2-min-1-100x100.gif",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/10150012/caes-2-min-1.gif",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/10150012/caes-2-min-1.gif"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/panasonic-oneconnect/",
+                  "title": "Panasonic OneConnect",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true,
+                  "path": "/cases/panasonic-oneconnect/"
+                },
+                "button": {
+                  "type": "solid",
+                  "skin": "greenBlack",
+                  "size": "md",
+                  "label": "Read full story",
+                  "withArrow": true,
+                  "icon": "arrow"
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "case-tile",
+              "attrs": {
+                "instanceId": "cab39e04-01a4-4090-b7c7-55aef59e72ba",
+                "title": "<strong>Designing a next-gen HMI</strong>",
+                "suptitle": "Automotive &amp; Mobility, Digital Design",
+                "description": "",
+                "layout": "bg-tile",
+                "logo": {
+                  "id": 50635,
+                  "url": "https://star.global/wp-content/uploads/2021/09/Client_s-NameSaic.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "title": "Client_s Name=Saic",
+                  "filename": "Client_s-NameSaic.svg",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/09/21045625/Client_s-NameSaic.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/09/21045625/Client_s-NameSaic.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/09/21045625/Client_s-NameSaic.svg"
+                  }
+                },
+                "background": {
+                  "id": 33120,
+                  "url": "https://star.global/wp-content/uploads/2021/02/Case-Study-Image-4.gif",
+                  "type": "image",
+                  "mime": "image/gif",
+                  "alt": "",
+                  "filename": "Case-Study-Image-4.gif",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10121427/Case-Study-Image-4-100x100.gif",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10121427/Case-Study-Image-4-620x485.gif",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10121427/Case-Study-Image-4.gif"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/hmi-design-for-mg-cars/",
+                  "title": "SAIC OIMT",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true,
+                  "path": "/cases/hmi-design-for-mg-cars/"
+                },
+                "button": {
+                  "type": "solid",
+                  "skin": "greenBlack",
+                  "size": "md",
+                  "label": "Read full story",
+                  "withArrow": true,
+                  "icon": "arrow"
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "case-cta-tile",
+              "attrs": {
+                "instanceId": "10eb11db-db72-4b8c-bd91-ef4d33bef3ff",
+                "title": "Dig into all of our case studies",
+                "description": "",
+                "layout": "purple-tile",
+                "link": {
+                  "url": "https://star.global/our-work/",
+                  "title": "Our Work",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true,
+                  "path": "/our-work/"
+                },
+                "button": {
+                  "skin": "black",
+                  "size": "md",
+                  "type": "solid",
+                  "withArrow": true,
+                  "label": "View all client stories",
+                  "mobileLabel": "View all stories",
+                  "icon": "arrow"
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "section-media-action",
+      "attrs": {
+        "instanceId": "d565e351-f3d8-41b8-8045-0f4c49316296",
+        "alignment": "image-left",
+        "startTheme": "gradient-violet-3",
+        "media": {
+          "id": 32818,
+          "url": "https://star.global/wp-content/uploads/2021/02/team-min-1-min-1.jpg",
+          "type": "image",
+          "mime": "image/jpeg",
+          "alt": "",
+          "sizes": {
+            "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10111847/Episode-6-DT-1240-x-970-100x100.jpg",
+            "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10111847/Episode-6-DT-1240-x-970-620x485.jpg",
+            "large": "https://cdn.star.global/wp-content/uploads/2021/02/10111847/Episode-6-DT-1240-x-970-1240x750.jpg"
+          }
+        },
+        "className": "is-style-gradient-violet-3",
+        "isMobileHidden": false,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "heading",
+          "attrs": {
+            "instanceId": "3b6fd1b7-152f-4203-ab53-7c8eb64743bc",
+            "level": 4,
+            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Co-create with our </strong><br><strong data-font-face=\"bold\" class=\"swc-bold\">cross-functional teams</strong>",
+            "align": "left",
+            "format": "title-3",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "paragraph",
+          "attrs": {
+            "className": "text-md",
+            "instanceId": "9479ce48-fc51-4c74-b3de-5f5a3c19e06b",
+            "text": "<span data-font-face=\"light\" class=\"swc-light\">Partner with Star to accelerate your product journey</span>.",
+            "format": "body-1",
+            "bgColor": "transparent",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "buttons",
+          "attrs": {
+            "instanceId": "fccd6c11-c122-4e17-9b2a-915ce0e64d95",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "button",
+              "attrs": {
+                "instanceId": "b5385af5-1344-467d-abd9-d4769062147c",
+                "label": "Get in touch",
+                "link": {
+                  "title": "https://star.global/contact",
+                  "path": "/contact",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true,
+                  "id": "https://star.global/contact",
+                  "url": "https://star.global/contact",
+                  "type": "URL"
+                },
+                "skin": "blackGreen",
+                "size": "md",
+                "type": "solid",
+                "icon": "arrow",
+                "parentEndTheme": "gradient-green-2",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "section-default",
+      "attrs": {
+        "instanceId": "ccde5169-b0d1-4775-bb31-808bb949d162",
+        "anchor": "partners",
+        "theme": "greyLight",
+        "isStretchHeight": false,
+        "className": "is-style-greyLight",
+        "locationViewConditions": {
+          "rule": "include",
+          "region": "all",
+          "country": "all",
+          "showIfUserLocationUndefined": false
+        },
+        "contentAlignment": "left",
+        "isMobileHidden": false,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "heading",
+          "attrs": {
+            "instanceId": "342144a0-f756-4f13-b180-067751efeecd",
+            "level": 2,
+            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">We are trusted\u00a0by...</strong>",
+            "align": "left",
+            "format": "title-1",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "logos-grid",
+          "attrs": {
+            "instanceId": "b8e37170-0b95-4b3b-ba8e-b3b2e92cac4a",
+            "linkLabel": "Show case study",
+            "growDirection": "horizontal",
+            "withLogoBackground": false,
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "4c29c1e6-860e-4f55-a189-b39807134ba6",
+                "logo": {
+                  "id": 29904,
+                  "url": "https://star.global/wp-content/uploads/2020/12/Panasonic-3.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/12/09021908/Panasonic-3.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/12/09021908/Panasonic-3.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/12/09021908/Panasonic-3.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/panasonic-oneconnect/",
+                  "title": "Panasonic OneConnect",
+                  "path": "/cases/panasonic-oneconnect/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "74a19765-a86a-4812-9092-1bacdadb7146",
+                "logo": {
+                  "id": 32767,
+                  "url": "https://star.global/wp-content/uploads/2021/02/NIO-1-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110108/image-49-2-1-1-100x100-1.jpg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110108/image-49-2-1-1-620x485-1.jpg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110108/image-49-2-1-1-720x750-1.jpg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/nio-nomi/",
+                  "title": "Nio-Nomi",
+                  "path": "/cases/nio-nomi/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "b8d4e4eb-0be8-41a1-a246-97d4cd28d986",
+                "logo": {
+                  "id": 32770,
+                  "url": "https://star.global/wp-content/uploads/2021/02/NTT-Data-1-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110131/Fitness-Wellness-%E2%80%94-Skills-augmentation-min-1-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110131/Fitness-Wellness-%E2%80%94-Skills-augmentation-min-1-480x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110131/Fitness-Wellness-%E2%80%94-Skills-augmentation-min-1.jpg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/ntt-data/",
+                  "title": "NTT Data. Creating an in-car concierge service",
+                  "path": "/cases/ntt-data/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "0c8c722f-64fd-458d-98f5-1d8c18c20c49",
+                "logo": {
+                  "id": 27852,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Dolby-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015142/Dolby-1.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015142/Dolby-1.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015142/Dolby-1.svg"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "9535a109-76fd-47b0-845a-a497845b26da",
+                "logo": {
+                  "id": 32775,
+                  "url": "https://star.global/wp-content/uploads/2021/02/Black-All-Logotypes-Section-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110240/c80d0ff5ac5ec948bfa1b13e5ec74d7a-min-1-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110240/c80d0ff5ac5ec948bfa1b13e5ec74d7a-min-1-620x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110240/c80d0ff5ac5ec948bfa1b13e5ec74d7a-min-1-1920x750.png"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "9172a975-f58a-487b-ba28-6fe03330030d",
+                "logo": {
+                  "id": 32778,
+                  "url": "https://star.global/wp-content/uploads/2021/02/Lufthansa-3-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": { "thumbnail": null, "medium": null, "large": null }
+                },
+                "link": {
+                  "url": "https://star.global/cases/lufthansa/",
+                  "title": "Lufthansa",
+                  "path": "/cases/lufthansa/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "d5dcc227-5976-408e-9277-be4e98ed80b5",
+                "logo": {
+                  "id": 27861,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Velux-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015251/Velux-1.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015251/Velux-1.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015251/Velux-1.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/velux/",
+                  "title": "Velux",
+                  "path": "/cases/velux/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "9031ce70-f94a-44a7-b953-4497a9cb8e80",
+                "logo": {
+                  "id": 32781,
+                  "url": "https://star.global/wp-content/uploads/2021/02/CloudMade-1-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://star.global/wp-content/uploads/2021/02/992102a3dc8854029e3022d78b390965-scaled-1-1-100x100.jpeg",
+                    "medium": "https://star.global/wp-content/uploads/2021/02/992102a3dc8854029e3022d78b390965-scaled-1-1-620x485.jpeg",
+                    "large": "https://star.global/wp-content/uploads/2021/02/992102a3dc8854029e3022d78b390965-scaled-1-1-1920x750.jpeg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/cloudmade/",
+                  "title": "CloudMade",
+                  "path": "/cases/cloudmade/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "cbf737d9-da53-499c-97cd-28f4fe7b8a10",
+                "logo": {
+                  "id": 27867,
+                  "url": "https://star.global/wp-content/uploads/2020/11/EGYM-1-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015341/EGYM-1-1.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015341/EGYM-1-1.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015341/EGYM-1-1.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/egym/",
+                  "title": "EGYM",
+                  "path": "/cases/egym/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false,
+                  "id": 20661,
+                  "type": "case"
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "3249027c-4794-4502-bcd7-1ef4fb09d4a2",
+                "logo": {
+                  "id": 27870,
+                  "url": "https://star.global/wp-content/uploads/2020/11/KEF-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015348/KEF-1.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015348/KEF-1.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015348/KEF-1.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/kef/",
+                  "title": "KEF",
+                  "path": "/cases/kef/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "db709d00-3a0c-45bb-822e-ac840e54f578",
+                "logo": {
+                  "id": 32786,
+                  "url": "https://star.global/wp-content/uploads/2021/02/Walmart-1-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110530/0142b7f785c93b2c87e3cd9e7fef5c5d-2-100x100-1.jpg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110530/0142b7f785c93b2c87e3cd9e7fef5c5d-2-620x485-1.jpg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110530/0142b7f785c93b2c87e3cd9e7fef5c5d-2.jpg"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "ac4a286a-227c-4ba7-b38a-8c8e18893f67",
+                "logo": {
+                  "id": 27876,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Xerox-3.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015405/Xerox-3.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015405/Xerox-3.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015405/Xerox-3.svg"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "ac121d0c-206f-4028-baca-7dd57da08f9a",
+                "logo": {
+                  "id": 27879,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Constant-Therapy.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015437/Constant-Therapy.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015437/Constant-Therapy.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015437/Constant-Therapy.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/constant-therapy/",
+                  "title": "Constant Therapy",
+                  "path": "/cases/constant-therapy/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "581e79f6-ccda-49fa-b05b-538459ac9374",
+                "logo": {
+                  "id": 27882,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Zeiss-3.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015445/Zeiss-3.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015445/Zeiss-3.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015445/Zeiss-3.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/zeiss/",
+                  "title": "Zeiss",
+                  "path": "/cases/zeiss/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "1d2e2b41-ed4f-4e3f-b190-13d62e57a1c8",
+                "logo": {
+                  "id": 32789,
+                  "url": "https://star.global/wp-content/uploads/2021/02/Winora-1-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/10110544/wr-1-100x100-1.jpg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/10110544/wr-1-620x485-1.jpg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/10110544/wr-1.jpg"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "15d0bf84-0bba-4b2c-ac98-a19e81e777f1",
+                "logo": {
+                  "id": 27888,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Haier.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015459/Haier.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015459/Haier.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015459/Haier.svg"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "b037b43f-d889-4af4-8b2f-2b37c4abfeae",
+                "logo": {
+                  "id": 27891,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Johnson-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015528/Johnson-1.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015528/Johnson-1.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015528/Johnson-1.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/johnson-fit/",
+                  "title": "Johnson Health Tech",
+                  "path": "/cases/johnson-fit/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "def59d34-64c9-4fac-a9c1-7fd15b057a95",
+                "logo": {
+                  "id": 32350,
+                  "url": "https://star.global/wp-content/uploads/2021/02/Tweddle-1.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": { "thumbnail": null, "medium": null, "large": null }
+                },
+                "link": {
+                  "id": 10513,
+                  "url": "https://star.global/cases/automotive-solutions-tweddle-group/",
+                  "title": "Tweddle Group",
+                  "type": "case",
+                  "path": "/cases/automotive-solutions-tweddle-group/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "14c742a6-683b-40f1-96a9-0ccc4e455090",
+                "logo": {
+                  "id": 32347,
+                  "url": "https://star.global/wp-content/uploads/2021/02/Saic-Black.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": { "thumbnail": null, "medium": null, "large": null }
+                },
+                "link": {
+                  "url": "https://star.global/cases/hmi-design-for-mg-cars/",
+                  "title": "SAIC OIMT",
+                  "path": "/cases/hmi-design-for-mg-cars/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "b392f303-03ae-45e4-b18a-ab3f0f0f9983",
+                "logo": {
+                  "id": 39510,
+                  "url": "https://star.global/wp-content/uploads/2021/02/smaato_b_420x180.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "title": "smaato_b_420x180",
+                  "filename": "smaato_b_420x180.png",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/12033016/smaato_b_420x180-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/12033016/smaato_b_420x180.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/12033016/smaato_b_420x180.png"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "f8a66891-fbdf-4698-9100-f7abefd4a3cb",
+                "logo": {
+                  "id": 27903,
+                  "alt": "",
+                  "url": "https://star.global/wp-content/uploads/2020/11/Still-3.svg"
+                },
+                "link": {
+                  "url": "https://star.global/cases/still/",
+                  "title": "Still",
+                  "path": "/cases/still/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "c54a53d8-e5a7-4cfb-b051-85a0454639bd",
+                "logo": {
+                  "id": 27906,
+                  "url": "https://star.global/wp-content/uploads/2020/11/waggit-logo.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015619/waggit-logo-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015619/waggit-logo.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015619/waggit-logo.png"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/waggit/",
+                  "title": "Waggit",
+                  "path": "/cases/waggit/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "ad28bade-d686-47e2-b3f7-17f1fafc27e6",
+                "logo": {
+                  "id": 27909,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Viral-Gains.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015626/Viral-Gains.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015626/Viral-Gains.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015626/Viral-Gains.svg"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "3acac727-2009-4aec-8a6a-6704afefa953",
+                "logo": {
+                  "id": 27912,
+                  "url": "https://star.global/wp-content/uploads/2020/11/uhuru.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015633/uhuru.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015633/uhuru.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015633/uhuru.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/uhuru/",
+                  "title": "Uhuru",
+                  "path": "/cases/uhuru/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "e507219e-b904-470e-93cb-1b9e26447200",
+                "logo": {
+                  "id": 27915,
+                  "url": "https://star.global/wp-content/uploads/2020/11/SimCorp.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015659/SimCorp.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015659/SimCorp.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015659/SimCorp.svg"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "323a9bfb-9587-47fb-be61-ca7fbdc77417",
+                "logo": {
+                  "id": 27918,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Magellan.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015706/Magellan.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015706/Magellan.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015706/Magellan.svg"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "37fde00e-348f-470a-93cd-34c5e4d319a1",
+                "logo": {
+                  "id": 27921,
+                  "url": "https://star.global/wp-content/uploads/2020/11/Kit-Check.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015712/Kit-Check.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015712/Kit-Check.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015712/Kit-Check.svg"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "a5507b38-4228-48d9-8d49-0b102c731445",
+                "logo": {
+                  "id": 27924,
+                  "url": "https://star.global/wp-content/uploads/2020/11/FLS-Midth.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015718/FLS-Midth.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015718/FLS-Midth.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015718/FLS-Midth.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/flsmidth/",
+                  "title": "FLSmidth",
+                  "path": "/cases/flsmidth/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "16ac6343-9c9e-47e1-b5f6-737d201e6c9a",
+                "logo": {
+                  "id": 27927,
+                  "url": "https://star.global/wp-content/uploads/2020/11/1800-Accountant.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/11015745/1800-Accountant.svg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/11015745/1800-Accountant.svg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/11015745/1800-Accountant.svg"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/1-800accountant/",
+                  "title": "1-800Accountant",
+                  "path": "/cases/1-800accountant/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "c6a1447a-a6f6-4dfa-9917-71a53f3f39e2",
+                "logo": {
+                  "id": 32317,
+                  "url": "https://star.global/wp-content/uploads/2021/02/Appyway.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": { "thumbnail": null, "medium": null, "large": null }
+                },
+                "link": {
+                  "url": "https://star.global/cases/appyway/",
+                  "title": "AppyWay",
+                  "path": "/cases/appyway/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "e62943f0-95a3-4f16-83e2-72483b13fdfc",
+                "logo": {
+                  "id": 32314,
+                  "url": "https://star.global/wp-content/uploads/2021/02/Denso.svg",
+                  "type": "image",
+                  "mime": "image/svg+xml",
+                  "alt": "",
+                  "sizes": { "thumbnail": null, "medium": null, "large": null }
+                },
+                "link": {
+                  "url": "https://star.global/cases/future-of-automotive-denso-case/",
+                  "title": "Denso: Exploring the future of in-car comfort with a world-leading automotive supplier",
+                  "path": "/cases/future-of-automotive-denso-case/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "c30bc7e5-7d0b-4f8c-afc8-eb4f35252bdf",
+                "logo": {
+                  "id": 24792,
+                  "url": "https://star.global/wp-content/uploads/2020/08/clarify_b_420x180.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/08/27052013/clarify_b_420x180-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/08/27052013/clarify_b_420x180.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/08/27052013/clarify_b_420x180.png"
+                  }
+                },
+                "link": {
+                  "url": "https://star.global/cases/clarify-health-care-prism/",
+                  "title": "Clarify Health Care Prism",
+                  "path": "/cases/clarify-health-care-prism/",
+                  "target": "_self",
+                  "rel": "",
+                  "opensInNewTab": false
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "06bb7db5-15a1-42b7-9ca1-5316a76a7b07",
+                "logo": {
+                  "id": 36154,
+                  "url": "https://star.global/wp-content/uploads/2021/03/logo-6-1.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "filename": "logo-6-1.png",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/03/22104558/logo-6-1-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/03/22104558/logo-6-1.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/03/22104558/logo-6-1.png"
+                  }
+                },
+                "link": {
+                  "id": "https://star.global/cases/covid-calculator-one-concern/",
+                  "title": "https://star.global/cases/covid-calculator-one-concern/",
+                  "url": "https://star.global/cases/covid-calculator-one-concern/",
+                  "type": "URL",
+                  "path": "/cases/covid-calculator-one-concern/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "44513501-443b-40da-997a-3ca1386260ef",
+                "logo": {
+                  "id": 36158,
+                  "url": "https://star.global/wp-content/uploads/2021/03/design_in_health_b_420x180-1.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "filename": "design_in_health_b_420x180-1.png",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/03/22104954/design_in_health_b_420x180-1-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/03/22104954/design_in_health_b_420x180-1.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/03/22104954/design_in_health_b_420x180-1.png"
+                  }
+                },
+                "link": {
+                  "id": "https://star.global/cases/digital-health-design/",
+                  "title": "https://star.global/cases/digital-health-design/",
+                  "url": "https://star.global/cases/digital-health-design/",
+                  "type": "URL",
+                  "path": "/cases/digital-health-design/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "logo-grid-item",
+              "attrs": {
+                "instanceId": "41942ab4-96d1-4463-84a5-a7a5e5defd5d",
+                "logo": {
+                  "id": 39481,
+                  "url": "https://star.global/wp-content/uploads/2021/02/ADI-black.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "title": "ADI black",
+                  "filename": "ADI-black.png",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/02/12024421/ADI-black-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/02/12024421/ADI-black.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/02/12024421/ADI-black.png"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "section-bg-action",
+      "attrs": {
+        "instanceId": "11d8c732-f72f-4cdf-8aa2-db64937210d2",
+        "anchor": "awards",
+        "startTheme": "gradient-violet-3",
+        "withLogoCloseUp": true,
+        "className": "is-style-gradient-violet-3",
+        "isMobileHidden": false,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "columns",
+          "attrs": {
+            "instanceId": "ffff12a9-66e9-4fbe-b7f7-4fc0d7ce6cc8",
+            "count": 2,
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "column",
+              "attrs": {
+                "instanceId": "326e57b8-9efb-4d60-9966-c6572a7899ca",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "heading",
+                  "attrs": {
+                    "instanceId": "fe2f4334-89f7-4f5c-8e1a-40d4d2245dbd",
+                    "level": 3,
+                    "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Achieve excellen</strong><strong data-font-face=\"bold\" class=\"swc-bold\">ce with Star</strong>",
+                    "align": "left",
+                    "format": "title-3",
+                    "fontFace": "regular",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "paragraph",
+                  "attrs": {
+                    "className": "text-md",
+                    "instanceId": "c4c1951c-a43e-46a1-b1ef-80818066094c",
+                    "text": "<span data-font-face=\"light\" class=\"swc-light\">Check out the awards and recognition our partners have received</span>.",
+                    "format": "body-1",
+                    "bgColor": "transparent",
+                    "fontFace": "regular",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                },
+                {
+                  "blockName": "button",
+                  "attrs": {
+                    "instanceId": "9419dc1b-6f6a-4134-b818-26132dc6a1fc",
+                    "label": "Get in touch",
+                    "link": {
+                      "id": 27833,
+                      "url": "https://star.global/contact/",
+                      "title": "Contact",
+                      "type": "page",
+                      "path": "/contact/",
+                      "target": "_blank",
+                      "rel": "",
+                      "opensInNewTab": true
+                    },
+                    "skin": "blackGreen",
+                    "size": "md",
+                    "type": "solid",
+                    "icon": "arrow",
+                    "parentEndTheme": "gradient-green-2",
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "column",
+              "attrs": {
+                "instanceId": "1b61f6de-a310-4943-ae9f-ec42e1b0569f",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "images",
+                  "attrs": {
+                    "instanceId": "16520dff-b9a5-46ec-86a1-af3d2dde4e10",
+                    "items": [
+                      {
+                        "id": 48187,
+                        "url": "https://star.global/wp-content/uploads/2021/08/CES.png",
+                        "type": "image",
+                        "mime": "image/png",
+                        "alt": "",
+                        "title": "CES",
+                        "filename": "CES.png",
+                        "sizes": {
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145728/CES-100x100.png",
+                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145728/CES.png",
+                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145728/CES.png"
+                        }
+                      },
+                      {
+                        "id": 48199,
+                        "url": "https://star.global/wp-content/uploads/2021/08/Red-Dot.png",
+                        "type": "image",
+                        "mime": "image/png",
+                        "alt": "",
+                        "title": "Red Dot",
+                        "filename": "Red-Dot.png",
+                        "sizes": {
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145738/Red-Dot-100x100.png",
+                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145738/Red-Dot.png",
+                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145738/Red-Dot.png"
+                        }
+                      },
+                      {
+                        "id": 48193,
+                        "url": "https://star.global/wp-content/uploads/2021/08/IF.png",
+                        "type": "image",
+                        "mime": "image/png",
+                        "alt": "",
+                        "title": "IF",
+                        "filename": "IF.png",
+                        "sizes": {
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145734/IF-100x100.png",
+                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145734/IF.png",
+                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145734/IF.png"
+                        }
+                      },
+                      {
+                        "id": 48202,
+                        "url": "https://star.global/wp-content/uploads/2021/08/UX.png",
+                        "type": "image",
+                        "mime": "image/png",
+                        "alt": "",
+                        "title": "UX",
+                        "filename": "UX.png",
+                        "sizes": {
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145740/UX-100x100.png",
+                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145740/UX.png",
+                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145740/UX.png"
+                        }
+                      },
+                      {
+                        "id": 48196,
+                        "url": "https://star.global/wp-content/uploads/2021/08/NAMM.png",
+                        "type": "image",
+                        "mime": "image/png",
+                        "alt": "",
+                        "title": "NAMM",
+                        "filename": "NAMM.png",
+                        "sizes": {
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145736/NAMM-100x100.png",
+                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145736/NAMM.png",
+                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145736/NAMM.png"
+                        }
+                      },
+                      {
+                        "id": 48190,
+                        "url": "https://star.global/wp-content/uploads/2021/08/CTIA.png",
+                        "type": "image",
+                        "mime": "image/png",
+                        "alt": "",
+                        "title": "CTIA",
+                        "filename": "CTIA.png",
+                        "sizes": {
+                          "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/08/09145730/CTIA-100x100.png",
+                          "medium": "https://cdn.star.global/wp-content/uploads/2021/08/09145730/CTIA.png",
+                          "large": "https://cdn.star.global/wp-content/uploads/2021/08/09145730/CTIA.png"
+                        }
+                      }
+                    ],
+                    "isMobileHidden": false,
+                    "isDesktopHidden": false,
+                    "isZeroMarginTop": false,
+                    "isZeroMarginBottom": false
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "section-default",
+      "attrs": {
+        "instanceId": "47230e36-5fb7-4820-b880-cf333c336efa",
+        "anchor": "certificates",
+        "theme": "white",
+        "isStretchHeight": false,
+        "locationViewConditions": {
+          "rule": "include",
+          "region": "all",
+          "country": "all",
+          "showIfUserLocationUndefined": false
+        },
+        "contentAlignment": "left",
+        "isMobileHidden": true,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "heading",
+          "attrs": {
+            "instanceId": "5a759eb9-d191-4752-b818-c91e81640986",
+            "level": 2,
+            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">We\u2019re certified and experienced technologists</strong>",
+            "align": "left",
+            "format": "title-2",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "icon-cards",
+          "attrs": {
+            "instanceId": "223bad7c-1202-4ea5-917c-00b8eef05cb4",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "icon-card",
+              "attrs": {
+                "instanceId": "c8a92bf1-dba8-43bd-965c-49ae5ba4d052",
+                "title": "<strong>ISO 9001</strong>",
+                "description": "Quality Management for Medical Devices",
+                "logo": {
+                  "id": 27823,
+                  "url": "https://star.global/wp-content/uploads/2020/11/iso.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "icon-card",
+              "attrs": {
+                "instanceId": "001a1568-64bc-44f8-a7f0-850b1a0e785f",
+                "title": "<strong>ISO 13485</strong>",
+                "description": "Quality Management for Medical Devices",
+                "logo": {
+                  "id": 27823,
+                  "url": "https://star.global/wp-content/uploads/2020/11/iso.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "icon-card",
+              "attrs": {
+                "instanceId": "052c75a3-a1ad-475a-abbd-b699d6766bf9",
+                "title": "<strong><strong>ISO 27001</strong></strong>",
+                "description": "Information security",
+                "logo": {
+                  "id": 27823,
+                  "url": "https://star.global/wp-content/uploads/2020/11/iso.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2020/11/10153414/iso.png"
+                  }
+                },
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "section-default",
+      "attrs": {
+        "instanceId": "c0a53235-ab07-45c5-b80f-8c677c3ff271",
+        "anchor": "insights",
+        "theme": "greyLight",
+        "isStretchHeight": false,
+        "className": "is-style-greyLight",
+        "locationViewConditions": {
+          "rule": "include",
+          "region": "all",
+          "country": "all",
+          "showIfUserLocationUndefined": false
+        },
+        "contentAlignment": "left",
+        "isMobileHidden": true,
+        "isDesktopHidden": false,
+        "isZeroMarginTop": false,
+        "isZeroMarginBottom": false
+      },
+      "innerBlocks": [
+        {
+          "blockName": "heading",
+          "attrs": {
+            "instanceId": "b53c8c0a-1cb0-41b0-944d-69f627e4f9e7",
+            "level": 2,
+            "text": "<strong data-font-face=\"bold\" class=\"swc-bold\">Insights</strong>",
+            "align": "left",
+            "format": "title-1",
+            "fontFace": "regular",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          }
+        },
+        {
+          "blockName": "insights",
+          "attrs": {
+            "instanceId": "3b90e9d6-b015-4a50-970b-892e8fb63b35",
+            "hoverBgTile": "purple",
+            "isMobileHidden": false,
+            "isDesktopHidden": false,
+            "isZeroMarginTop": false,
+            "isZeroMarginBottom": false
+          },
+          "innerBlocks": [
+            {
+              "blockName": "insight-tile",
+              "attrs": {
+                "instanceId": "a7838b7c-1c90-487b-9d0c-77996dc7e5cd",
+                "title": "Interoperability in healthcare: the essential ingredient for future-forward SaMD and IoMT solutions",
+                "subtitle": "Article \u2022 April 4, 2022",
+                "theme": "bg-tile",
+                "link": {
+                  "id": "https://star.global/posts/healthcare-interoperability-samd-and-iomt-solutions/",
+                  "title": "https://star.global/posts/healthcare-interoperability-samd-and-iomt-solutions/",
+                  "url": "https://star.global/posts/healthcare-interoperability-samd-and-iomt-solutions/",
+                  "type": "URL",
+                  "path": "/posts/healthcare-interoperability-samd-and-iomt-solutions/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "background": {
+                  "id": 65364,
+                  "url": "https://star.global/wp-content/uploads/2022/03/interoperability_738x526.jpeg",
+                  "type": "image",
+                  "mime": "image/jpeg",
+                  "alt": "",
+                  "title": "interoperability_738x526",
+                  "filename": "interoperability_738x526.jpeg",
+                  "withSize": true,
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/03/01014115/interoperability_738x526-100x100.jpeg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2022/03/01014115/interoperability_738x526-620x485.jpeg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2022/03/01014115/interoperability_738x526.jpeg"
+                  }
+                },
+                "className": "is-style-bg-tile",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "insight-cta-tile",
+              "attrs": {
+                "instanceId": "a4ab3aae-da7b-4183-81bd-9cb2d8866969",
+                "title": "<strong>We have even more\u00a0insights for you</strong>",
+                "subtitle": "Are you ready to learn with us?",
+                "theme": "dark-purple",
+                "link": {
+                  "url": "https://star.global/posts/",
+                  "title": "Posts",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true,
+                  "path": "/posts/"
+                },
+                "linkLabel": "View all insights",
+                "className": "is-style-dark-purple",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "insight-tile",
+              "attrs": {
+                "instanceId": "b4b825b9-528c-45c6-916a-6c55d9c50a8e",
+                "title": "Your guide to understanding AI technologies for healthcare products",
+                "subtitle": "Article \u2022 January 26, 2022",
+                "theme": "purple-tile",
+                "link": {
+                  "id": "https://star.global/posts/ai-technologies-for-healthcare-products/",
+                  "title": "https://star.global/posts/ai-technologies-for-healthcare-products/",
+                  "url": "https://star.global/posts/ai-technologies-for-healthcare-products/",
+                  "type": "URL",
+                  "path": "/posts/ai-technologies-for-healthcare-products/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "background": {
+                  "id": 61214,
+                  "url": "https://star.global/wp-content/uploads/2022/01/738_AI.png",
+                  "type": "image",
+                  "mime": "image/png",
+                  "alt": "",
+                  "title": "738_AI",
+                  "filename": "738_AI.png",
+                  "withSize": true,
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/01/26084133/738_AI-100x100.png",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2022/01/26084133/738_AI-620x485.png",
+                    "large": "https://cdn.star.global/wp-content/uploads/2022/01/26084133/738_AI.png"
+                  }
+                },
+                "className": "is-style-purple-tile",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "insight-tile",
+              "attrs": {
+                "instanceId": "f0a5941a-12dc-49f0-ac41-48b720b010c8",
+                "title": "E-wallet development: a vital step for any business of the future",
+                "subtitle": "Article \u2022 February 15, 2022",
+                "theme": "green-tile",
+                "link": {
+                  "id": "https://star.global/posts/e-wallet-development/",
+                  "title": "https://star.global/posts/e-wallet-development/",
+                  "url": "https://star.global/posts/e-wallet-development/",
+                  "type": "URL",
+                  "path": "/posts/e-wallet-development/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "background": {
+                  "id": 63274,
+                  "url": "https://star.global/wp-content/uploads/2022/02/e-wallets_cover_1260-2-1.jpg",
+                  "type": "image",
+                  "mime": "image/jpeg",
+                  "alt": "",
+                  "title": "e-wallets_cover_1260 (2)",
+                  "filename": "e-wallets_cover_1260-2-1.jpg",
+                  "withSize": true,
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/02/15032040/e-wallets_cover_1260-2-1-100x100.jpg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2022/02/15032040/e-wallets_cover_1260-2-1-620x485.jpg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2022/02/15032040/e-wallets_cover_1260-2-1-1260x750.jpg"
+                  }
+                },
+                "className": "is-style-green-tile",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "insight-tile",
+              "attrs": {
+                "instanceId": "1c30ca63-230e-4b33-9802-45dbf7aa0c10",
+                "title": "Why a digital design career requires leveraging all your skills",
+                "subtitle": "podcast \u2022 March 31, 2022",
+                "theme": "bg-tile",
+                "link": {
+                  "id": "https://star.global/posts/how-to-start-a-career-in-digital-design-podcast/",
+                  "title": "https://star.global/posts/how-to-start-a-career-in-digital-design-podcast/",
+                  "url": "https://star.global/posts/how-to-start-a-career-in-digital-design-podcast/",
+                  "type": "URL",
+                  "path": "/posts/how-to-start-a-career-in-digital-design-podcast/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "background": {
+                  "id": 64891,
+                  "url": "https://star.global/wp-content/uploads/2022/02/Episode-2.11-Teaser-3.jpg",
+                  "type": "image",
+                  "mime": "image/jpeg",
+                  "alt": "",
+                  "title": "Episode 2.11 Teaser (3)",
+                  "filename": "Episode-2.11-Teaser-3.jpg",
+                  "withSize": true,
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/02/29075444/Episode-2.11-Teaser-3-100x100.jpg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2022/02/29075444/Episode-2.11-Teaser-3-620x485.jpg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2022/02/29075444/Episode-2.11-Teaser-3-1240x750.jpg"
+                  }
+                },
+                "className": "is-style-bg-tile",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "insight-tile",
+              "attrs": {
+                "instanceId": "03f72add-4c5e-4952-aa3b-32ea8d13524b",
+                "title": "The tech enabling aging in place:\u00a0Star and Linus Health webinar",
+                "subtitle": "Webinar \u2022 February 7, 2022",
+                "theme": "bg-tile",
+                "link": {
+                  "id": "https://star.global/posts/digital-health-technologies-for-aging-in-place-webinar/",
+                  "title": "https://star.global/posts/digital-health-technologies-for-aging-in-place-webinar/",
+                  "url": "https://star.global/posts/digital-health-technologies-for-aging-in-place-webinar/",
+                  "type": "URL",
+                  "path": "/posts/digital-health-technologies-for-aging-in-place-webinar/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "background": {
+                  "id": 62437,
+                  "url": "https://star.global/wp-content/uploads/2022/01/640x526.jpg",
+                  "type": "image",
+                  "mime": "image/jpeg",
+                  "alt": "",
+                  "title": "640x526",
+                  "filename": "640x526.jpg",
+                  "withSize": true,
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2022/01/02032232/640x526-100x100.jpg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2022/01/02032232/640x526-620x485.jpg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2022/01/02032232/640x526.jpg"
+                  }
+                },
+                "className": "is-style-bg-tile",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "insight-tile",
+              "attrs": {
+                "instanceId": "6db770a9-191b-454d-9554-aaa8b3903c65",
+                "title": "Accelerate fleet innovation with Design Thinking",
+                "subtitle": "White Paper \u2022 January 24, 2022",
+                "theme": "purple-tile",
+                "link": {
+                  "id": "https://star.global/posts/design-thinking-for-fleet-management/",
+                  "title": "https://star.global/posts/design-thinking-for-fleet-management/",
+                  "url": "https://star.global/posts/design-thinking-for-fleet-management/",
+                  "type": "URL",
+                  "path": "/posts/design-thinking-for-fleet-management/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "className": "is-style-purple-tile",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "insight-tile",
+              "attrs": {
+                "instanceId": "f3a397f8-b28e-4ca1-90b5-9656f469110b",
+                "title": "The future of two-wheel mobility: top trends at the 2021 EICMA Motorcycle Show",
+                "subtitle": "Infographic \u2022 December 24, 2021",
+                "theme": "bg-tile",
+                "link": {
+                  "id": "https://star.global/posts/two-wheel-mobility-trends-2021-eicma/",
+                  "title": "https://star.global/posts/two-wheel-mobility-trends-2021-eicma/",
+                  "url": "https://star.global/posts/two-wheel-mobility-trends-2021-eicma/",
+                  "type": "URL",
+                  "path": "/posts/two-wheel-mobility-trends-2021-eicma/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "background": {
+                  "id": 58370,
+                  "url": "https://star.global/wp-content/uploads/2021/12/EICMA-2021_1260\u04451056.jpg",
+                  "type": "image",
+                  "mime": "image/jpeg",
+                  "alt": "trends in two-wheel mobility",
+                  "title": "EICMA-2021_1260\u04451056",
+                  "filename": "EICMA-2021_1260\u04451056.jpg",
+                  "withSize": true,
+                  "sizes": {
+                    "thumbnail": "https://cdn.star.global/wp-content/uploads/2021/12/24034304/EICMA-2021_1260%D1%851056-100x100.jpg",
+                    "medium": "https://cdn.star.global/wp-content/uploads/2021/12/24034304/EICMA-2021_1260%D1%851056-620x485.jpg",
+                    "large": "https://cdn.star.global/wp-content/uploads/2021/12/24034304/EICMA-2021_1260%D1%851056-1260x750.jpg"
+                  }
+                },
+                "className": "is-style-bg-tile",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "insight-cta-tile",
+              "attrs": {
+                "instanceId": "69a72b74-0187-4329-b241-5ed4e3463d89",
+                "title": "<strong>We have even more\u00a0insights for you</strong>",
+                "subtitle": "Are you ready to learn with us?",
+                "theme": "dark-purple",
+                "link": {
+                  "id": 183,
+                  "url": "https://star.global/posts/",
+                  "title": "Posts",
+                  "type": "page",
+                  "path": "/posts/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "linkLabel": "View all insights",
+                "className": "is-style-dark-purple",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            },
+            {
+              "blockName": "insight-tile",
+              "attrs": {
+                "instanceId": "8983fdbd-5925-4266-9456-7dadd19044fc",
+                "title": "What's next for BNPL?",
+                "subtitle": "Infographic \u2022 January 17, 2022",
+                "theme": "green-tile",
+                "link": {
+                  "id": "https://star.global/posts/reserve-the-fintech-upcoming-expert-report/",
+                  "title": "https://star.global/posts/reserve-the-fintech-upcoming-expert-report/",
+                  "url": "https://star.global/posts/reserve-the-fintech-upcoming-expert-report/",
+                  "type": "URL",
+                  "path": "/posts/reserve-the-fintech-upcoming-expert-report/",
+                  "target": "_blank",
+                  "rel": "",
+                  "opensInNewTab": true
+                },
+                "className": "is-style-green-tile",
+                "isMobileHidden": false,
+                "isDesktopHidden": false,
+                "isZeroMarginTop": false,
+                "isZeroMarginBottom": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "titles_title": "Star | Global strategy, design and engineering consultancy",
+    "titles_desc": "We make every great person, every great idea and every great company shine. That\u2019s why we\u2019re called Star.",
+    "schemas": [],
+    "datePublished": "2020-11-11T02:05:44-07:00",
+    "dateModified": "2022-04-15T05:30:59-07:00",
+    "disabled_robots_index": false,
+    "disabled_robots_follow": false,
+    "social_fb_title": "Star | Global strategy, design and engineering consultancy",
+    "social_fb_desc": "We make every great person, every great idea and every great company shine. That\u2019s why we\u2019re called Star.",
+    "social_fb_img": "https://cdn.star.global/wp-content/uploads/2020/10/30130841/Home_page_image_1200x630.png",
+    "social_twitter_title": "Star | Global strategy, design and engineering consultancy",
+    "social_twitter_desc": "We make every great person, every great idea and every great company shine. That\u2019s why we\u2019re called Star.",
+    "social_twitter_img": "https://cdn.star.global/wp-content/uploads/2020/10/30130841/Home_page_image_1200x630.png",
+    "robots_canonical": "",
+    "robots_breadcrumbs": ""
+  },
+  "post_type": "page",
+  "template": "default",
+  "shouldRenderOnFront": true
+}
